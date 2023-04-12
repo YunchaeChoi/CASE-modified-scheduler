@@ -1,0 +1,73 @@
+2  0
+5  1506006074
+8  3015768572
+11  4605307365
+0  5033508221
+9  5133735242
+10  5935076404
+14  6421858080
+1  6737035353
+17  7894538029
+20  9960490179
+23  10600566916
+21  11247072577
+22  11949118609
+26  15222422632
+35  16638257202
+29  17326099778
+33  17479403358
+32  18028886402
+34  18384471617
+4  21511323787
+3  21511673633
+7  24343362347
+6  24546114354
+13  24949248744
+12  24949662933
+15  45145642945
+18  65875717399
+24  75550049124
+27  79475817190
+16  82293113661
+19  88024359750
+25  92042048324
+30  94752840217
+28  102979535014
+31  149667516233
+----------------------
+470601014867663 bemps_beacon: pid 9480 , bemps_tid 2 , mem_B 9725542400 , warps 1536 , device_id 0 , thread_blocks 192
+470602520871324 bemps_beacon: pid 9520 , bemps_tid 5 , mem_B 9725542400 , warps 1536 , device_id 1 , thread_blocks 192
+470604030609521 bemps_beacon: pid 9555 , bemps_tid 8 , mem_B 9725542400 , warps 1536 , device_id 2 , thread_blocks 192
+470605620164734 bemps_beacon: pid 9578 , bemps_tid 11 , mem_B 2679111680 , warps 1536 , device_id 3 , thread_blocks 192
+470606048393299 bemps_beacon: pid 9464 , bemps_tid 0 , mem_B 5709496320 , warps 8388608 , device_id 3 , thread_blocks 1048576
+470606148621898 bemps_beacon: pid 9560 , bemps_tid 9 , mem_B 1682964480 , warps 2097152 , device_id 0 , thread_blocks 262144
+470606949902964 bemps_beacon: pid 9574 , bemps_tid 10 , mem_B 2219835392 , warps 2097152 , device_id 1 , thread_blocks 262144
+470607436721029 bemps_beacon: pid 9611 , bemps_tid 14 , mem_B 9725542400 , warps 1536 , device_id 0 , thread_blocks 192
+470607751873849 bemps_beacon: pid 9466 , bemps_tid 1 , mem_B 7856979968 , warps 8388608 , device_id 3 , thread_blocks 1048576
+470608909383278 bemps_beacon: pid 9665 , bemps_tid 17 , mem_B 9725542400 , warps 1536 , device_id 1 , thread_blocks 192
+470610975341890 bemps_beacon: pid 9691 , bemps_tid 20 , mem_B 9725542400 , warps 1536 , device_id 2 , thread_blocks 192
+470611615426508 bemps_beacon: pid 9716 , bemps_tid 23 , mem_B 2679111680 , warps 1536 , device_id 0 , thread_blocks 192
+470612261947090 bemps_beacon: pid 9692 , bemps_tid 21 , mem_B 1682964480 , warps 2097152 , device_id 2 , thread_blocks 262144
+470612963967429 bemps_beacon: pid 9710 , bemps_tid 22 , mem_B 2219835392 , warps 2097152 , device_id 1 , thread_blocks 262144
+470616237285747 bemps_beacon: pid 9777 , bemps_tid 26 , mem_B 9725542400 , warps 1536 , device_id 0 , thread_blocks 192
+470617653125876 bemps_beacon: pid 9882 , bemps_tid 35 , mem_B 2679111680 , warps 1536 , device_id 0 , thread_blocks 192
+470618340963051 bemps_beacon: pid 9809 , bemps_tid 29 , mem_B 9725542400 , warps 1536 , device_id 2 , thread_blocks 192
+470618494261476 bemps_beacon: pid 9842 , bemps_tid 33 , mem_B 1682964480 , warps 2097152 , device_id 2 , thread_blocks 262144
+470619043734565 bemps_beacon: pid 9834 , bemps_tid 32 , mem_B 9725542400 , warps 1536 , device_id 1 , thread_blocks 192
+470619399304626 bemps_beacon: pid 9855 , bemps_tid 34 , mem_B 2219835392 , warps 2097152 , device_id 1 , thread_blocks 262144
+470622526174580 bemps_beacon: pid 9492 , bemps_tid 4 , mem_B 7856979968 , warps 8388608 , device_id 0 , thread_blocks 1048576
+470622526530993 bemps_beacon: pid 9490 , bemps_tid 3 , mem_B 5709496320 , warps 8388608 , device_id 0 , thread_blocks 1048576
+470625358198180 bemps_beacon: pid 9546 , bemps_tid 7 , mem_B 7856979968 , warps 8388608 , device_id 1 , thread_blocks 1048576
+470625560964782 bemps_beacon: pid 9535 , bemps_tid 6 , mem_B 5709496320 , warps 8388608 , device_id 1 , thread_blocks 1048576
+470625964087041 bemps_beacon: pid 9599 , bemps_tid 13 , mem_B 7856979968 , warps 8388608 , device_id 2 , thread_blocks 1048576
+470625964492890 bemps_beacon: pid 9586 , bemps_tid 12 , mem_B 5709496320 , warps 8388608 , device_id 2 , thread_blocks 1048576
+470646160506220 bemps_beacon: pid 9634 , bemps_tid 15 , mem_B 5709496320 , warps 8388608 , device_id 3 , thread_blocks 1048576
+470666890580743 bemps_beacon: pid 9676 , bemps_tid 18 , mem_B 5709496320 , warps 8388608 , device_id 1 , thread_blocks 1048576
+470676564889739 bemps_beacon: pid 9729 , bemps_tid 24 , mem_B 5709496320 , warps 8388608 , device_id 0 , thread_blocks 1048576
+470680490661233 bemps_beacon: pid 9787 , bemps_tid 27 , mem_B 5709496320 , warps 8388608 , device_id 2 , thread_blocks 1048576
+470683307954296 bemps_beacon: pid 9653 , bemps_tid 16 , mem_B 7856979968 , warps 8388608 , device_id 3 , thread_blocks 1048576
+470689039208564 bemps_beacon: pid 9682 , bemps_tid 19 , mem_B 7856979968 , warps 8388608 , device_id 0 , thread_blocks 1048576
+470693056884051 bemps_beacon: pid 9753 , bemps_tid 25 , mem_B 7856979968 , warps 8388608 , device_id 2 , thread_blocks 1048576
+470695767674762 bemps_beacon: pid 9812 , bemps_tid 30 , mem_B 5709496320 , warps 8388608 , device_id 3 , thread_blocks 1048576
+470703994380006 bemps_beacon: pid 9803 , bemps_tid 28 , mem_B 7856979968 , warps 8388608 , device_id 1 , thread_blocks 1048576
+470750682361724 bemps_beacon: pid 9826 , bemps_tid 31 , mem_B 7856979968 , warps 8388608 , device_id 0 , thread_blocks 1048576

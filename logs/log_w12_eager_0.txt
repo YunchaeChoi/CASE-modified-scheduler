@@ -1,0 +1,323 @@
+2: LOG_before
+501664279340644 bemps_begin: pid 15917 , num_blocks 192 , threads_per_block 256 , bemps_begin
+501664448799833 bemps_beacon: pid 15917 , bemps_tid 2 , mem_B 9725542400 , warps 1536 , device_id 0 , thread_blocks 192
+TIME STAMP (BEMPS_BEGIN). time: 1681128405418910965 ns, tid: 2
+2: LOG_after
+rgb
+154
+pre_bemps_free alignedSize!!
+in PRE BEMPS FREE - beacon.mem_B: 9725542400
+in PRE BEMPS FREE - device_id : 0
+501665150987349 pre_bemps_free: pid 15917 , freeing device_id 0 , bemps_tid 2
+in PRE BEMPS FREE - changed_beacon.mem_B: 8920236032
+
+*** 3 stages of 2D forward DWT:
+pixWidth, pixHeight: 16384, 16384
+
+ sliding steps = 137 , gx = 86 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 69 , gx = 43 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 35 , gx = 22 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+2: LOG_before_pre1
+in PRE BEMPS FREE - beacon.mem_B: 8920236032
+in PRE BEMPS FREE - device_id : 0
+501665172999580 pre_bemps_free: pid 15917 , freeing device_id 0 , bemps_tid 2
+5: LOG_before
+501665791940943 bemps_begin: pid 15962 , num_blocks 192 , threads_per_block 256 , bemps_begin
+501665947027848 bemps_beacon: pid 15962 , bemps_tid 5 , mem_B 9725542400 , warps 1536 , device_id 1 , thread_blocks 192
+TIME STAMP (BEMPS_BEGIN). time: 1681128406917143028 ns, tid: 5
+5: LOG_after
+rgb
+154
+pre_bemps_free alignedSize!!
+in PRE BEMPS FREE - beacon.mem_B: 9725542400
+in PRE BEMPS FREE - device_id : 1
+501666681396734 pre_bemps_free: pid 15962 , freeing device_id 1 , bemps_tid 5
+in PRE BEMPS FREE - changed_beacon.mem_B: 8920236032
+
+*** 3 stages of 2D forward DWT:
+pixWidth, pixHeight: 16384, 16384
+
+ sliding steps = 137 , gx = 86 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 69 , gx = 43 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 35 , gx = 22 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+5: LOG_before_pre1
+in PRE BEMPS FREE - beacon.mem_B: 8920236032
+in PRE BEMPS FREE - device_id : 1
+501666681721967 pre_bemps_free: pid 15962 , freeing device_id 1 , bemps_tid 5
+in PRE BEMPS FREE - changed_beacon.mem_B: 7846494208
+5: LOG_after_pre1
+
+*** 3 stages of 2D forward DWT:
+pixWidth, pixHeight: 16384, 16384
+
+ sliding steps = 137 , gx = 86 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 69 , gx = 43 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 35 , gx = 22 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+5: LOG before pthread create pthreads[1]
+5: LOG_before_pre2
+in PRE BEMPS FREE - beacon.mem_B: 7846494208
+in PRE BEMPS FREE - device_id : 1
+501666681796431 pre_bemps_free: pid 15962 , freeing device_id 1 , bemps_tid 5
+in PRE BEMPS FREE - changed_beacon.mem_B: 6772752384
+5: LOG_after_pre2
+
+*** 3 stages of 2D forward DWT:
+pixWidth, pixHeight: 16384, 16384
+
+ sliding steps = 137 , gx = 86 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 69 , gx = 43 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 35 , gx = 22 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+5: LOG_before_pre3
+in PRE BEMPS FREE - beacon.mem_B: 6772752384
+in PRE BEMPS FREE - device_id : 1
+501666681866842 pre_bemps_free: pid 15962 , freeing device_id 1 , bemps_tid 5
+in PRE BEMPS FREE - changed_beacon.mem_B: 5699010560
+5: LOG_after_pre3
+8: LOG_before
+501667300554308 bemps_begin: pid 15986 , num_blocks 192 , threads_per_block 256 , bemps_begin
+501667567775558 bemps_beacon: pid 15986 , bemps_tid 8 , mem_B 9725542400 , warps 1536 , device_id 2 , thread_blocks 192
+TIME STAMP (BEMPS_BEGIN). time: 1681128408537890524 ns, tid: 8
+8: LOG_after
+rgb
+154
+pre_bemps_free alignedSize!!
+in PRE BEMPS FREE - beacon.mem_B: 9725542400
+in PRE BEMPS FREE - device_id : 2
+501668287906950 pre_bemps_free: pid 15986 , freeing device_id 2 , bemps_tid 8
+in PRE BEMPS FREE - changed_beacon.mem_B: 8920236032
+
+*** 3 stages of 2D forward DWT:
+pixWidth, pixHeight: 16384, 16384
+
+ sliding steps = 137 , gx = 86 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 69 , gx = 43 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 35 , gx = 22 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+8: LOG_before_pre1
+in PRE BEMPS FREE - beacon.mem_B: 8920236032
+in PRE BEMPS FREE - device_id : 2
+501668288100074 pre_bemps_free: pid 15986 , freeing device_id 2 , bemps_tid 8
+in PRE BEMPS FREE - changed_beacon.mem_B: 7846494208
+8: LOG_after_pre1
+
+*** 3 stages of 2D forward DWT:
+pixWidth, pixHeight: 16384, 16384
+
+ sliding steps = 137 , gx = 86 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 69 , gx = 43 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 35 , gx = 22 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+8: LOG before pthread create pthreads[1]
+8: LOG_before_pre2
+in PRE BEMPS FREE - beacon.mem_B: 7846494208
+in PRE BEMPS FREE - device_id : 2
+501668288188615 pre_bemps_free: pid 15986 , freeing device_id 2 , bemps_tid 8
+in PRE BEMPS FREE - changed_beacon.mem_B: 6772752384
+8: LOG_after_pre2
+
+*** 3 stages of 2D forward DWT:
+pixWidth, pixHeight: 16384, 16384
+
+ sliding steps = 137 , gx = 86 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 69 , gx = 43 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 35 , gx = 22 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+8: LOG_before_pre3
+in PRE BEMPS FREE - beacon.mem_B: 6772752384
+in PRE BEMPS FREE - device_id : 2
+501668288259182 pre_bemps_free: pid 15986 , freeing device_id 2 , bemps_tid 8
+11: LOG_before
+501668811245978 bemps_begin: pid 16013 , num_blocks 192 , threads_per_block 256 , bemps_begin
+in PRE BEMPS FREE - changed_beacon.mem_B: 5699010560
+8: LOG_after_pre3
+501668948498904 bemps_beacon: pid 16013 , bemps_tid 11 , mem_B 2679111680 , warps 1536 , device_id 3 , thread_blocks 192
+setting device 0 with name Tesla V100-SXM2-32GB
+501669259537933 bemps_begin: pid 15895 , num_blocks 1048576 , threads_per_block 256 , bemps_begin
+501669285074843 bemps_beacon: pid 15895 , bemps_tid 0 , mem_B 5709496320 , warps 8388608 , device_id 0 , thread_blocks 1048576
+TIME STAMP (BEMPS_BEGIN). time: 1681128409918612673 ns, tid: 11
+11: LOG_after
+rgb
+154
+pre_bemps_free alignedSize!!
+in PRE BEMPS FREE - beacon.mem_B: 2679111680
+in PRE BEMPS FREE - device_id : 3
+501669525362056 pre_bemps_free: pid 16013 , freeing device_id 3 , bemps_tid 11
+in PRE BEMPS FREE - changed_beacon.mem_B: 2477785088
+
+*** 3 stages of 2D forward DWT:
+pixWidth, pixHeight: 8192, 8192
+
+ sliding steps = 69 , gx = 43 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 35 , gx = 22 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 18 , gx = 11 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+11: LOG_before_pre1
+in PRE BEMPS FREE - beacon.mem_B: 2477785088
+in PRE BEMPS FREE - device_id : 3
+501669525784888 pre_bemps_free: pid 16013 , freeing device_id 3 , bemps_tid 11
+in PRE BEMPS FREE - changed_beacon.mem_B: 2209349632
+11: LOG_after_pre1
+
+*** 3 stages of 2D forward DWT:
+pixWidth, pixHeight: 8192, 8192
+
+ sliding steps = 69 , gx = 43 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 35 , gx = 22 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 18 , gx = 11 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+11: LOG before pthread create pthreads[1]
+11: LOG_before_pre2
+in PRE BEMPS FREE - beacon.mem_B: 2209349632
+in PRE BEMPS FREE - device_id : 3
+501669525865945 pre_bemps_free: pid 16013 , freeing device_id 3 , bemps_tid 11
+in PRE BEMPS FREE - changed_beacon.mem_B: 1940914176
+11: LOG_after_pre2
+
+*** 3 stages of 2D forward DWT:
+pixWidth, pixHeight: 8192, 8192
+
+ sliding steps = 69 , gx = 43 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 35 , gx = 22 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 18 , gx = 11 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+11: LOG_before_pre3
+in PRE BEMPS FREE - beacon.mem_B: 1940914176
+in PRE BEMPS FREE - device_id : 3
+501669525943056 pre_bemps_free: pid 16013 , freeing device_id 3 , bemps_tid 11
+setting device 0 with name Tesla V100-SXM2-32GB
+501669784007614 bemps_begin: pid 15994 , num_blocks 262144 , threads_per_block 256 , bemps_begin
+501669786399293 bemps_beacon: pid 15994 , bemps_tid 9 , mem_B 1682964480 , warps 2097152 , device_id 1 , thread_blocks 262144
+setting device 0 with name Tesla V100-SXM2-32GB
+1: LOG_before
+501669894103462 bemps_begin: pid 15909 , num_blocks 1048576 , threads_per_block 256 , bemps_begin
+501669986731495 bemps_beacon: pid 15909 , bemps_tid 1 , mem_B 7856979968 , warps 8388608 , device_id 2 , thread_blocks 1048576
+setting device 0 with name Tesla V100-SXM2-32GB
+10: LOG_before
+501670070919311 bemps_begin: pid 16000 , num_blocks 262144 , threads_per_block 256 , bemps_begin
+501670086937756 bemps_beacon: pid 16000 , bemps_tid 10 , mem_B 2219835392 , warps 2097152 , device_id 3 , thread_blocks 262144
+14: LOG_before
+501670323679667 bemps_begin: pid 16062 , num_blocks 192 , threads_per_block 256 , bemps_begin
+501670435607622 bemps_beacon: pid 16062 , bemps_tid 14 , mem_B 9725542400 , warps 1536 , device_id 3 , thread_blocks 192
+setting device 0 with name Tesla V100-SXM2-32GB
+501670912678844 bemps_begin: pid 15930 , num_blocks 1048576 , threads_per_block 256 , bemps_begin
+501670987761294 bemps_beacon: pid 15930 , bemps_tid 3 , mem_B 5709496320 , warps 8388608 , device_id 1 , thread_blocks 1048576
+setting device 0 with name Tesla V100-SXM2-32GB
+4: LOG_before
+501671537533706 bemps_begin: pid 15937 , num_blocks 1048576 , threads_per_block 256 , bemps_begin
+17: LOG_before
+501671836261125 bemps_begin: pid 16106 , num_blocks 192 , threads_per_block 256 , bemps_begin
+TIME STAMP (BEMPS_BEGIN). time: 1681128410756489508 ns, tid: 9
+in PRE BEMPS FREE - beacon.mem_B: 1682964480
+in PRE BEMPS FREE - device_id : 1
+501672015894909 pre_bemps_free: pid 15994 , freeing device_id 1 , bemps_tid 9
+TIME STAMP (BEMPS_BEGIN). time: 1681128411057076693 ns, tid: 10
+10: LOG_after
+CUDA ERROR: no error
+CUDA ERROR after .ptr: 0, no error
+in PRE BEMPS FREE - beacon.mem_B: 2219835392
+in PRE BEMPS FREE - device_id : 3
+501672619092030 pre_bemps_free: pid 16000 , freeing device_id 3 , bemps_tid 10
+setting device 0 with name Tesla V100-SXM2-32GB
+501672692085636 bemps_begin: pid 15970 , num_blocks 1048576 , threads_per_block 256 , bemps_begin
+setting device 0 with name Tesla V100-SXM2-32GB
+7: LOG_before
+501673195442330 bemps_begin: pid 15982 , num_blocks 1048576 , threads_per_block 256 , bemps_begin
+in PRE BEMPS FREE - changed_beacon.mem_B: 1146093568
+9: LOG_after_pre1
+in PRE BEMPS FREE - beacon.mem_B: 1146093568
+in PRE BEMPS FREE - device_id : 1
+501673583878613 pre_bemps_free: pid 15994 , freeing device_id 1 , bemps_tid 9
+in PRE BEMPS FREE - changed_beacon.mem_B: 609222656
+501673852706645 bemps_free: pid 15994 , freeing device_id 1 , bemps_tid 9
+in PRE BEMPS FREE - changed_beacon.mem_B: 1682964480
+in PRE BEMPS FREE - beacon.mem_B: 1682964480
+in PRE BEMPS FREE - device_id : 3
+501674185542636 pre_bemps_free: pid 16000 , freeing device_id 3 , bemps_tid 10
+TIME STAMP (BEMPS_BEGIN). time: 1681128411405721277 ns, tid: 14
+14: LOG_after
+rgb
+154
+pre_bemps_free alignedSize!!
+in PRE BEMPS FREE - beacon.mem_B: 9725542400
+in PRE BEMPS FREE - device_id : 3
+501674188465422 pre_bemps_free: pid 16062 , freeing device_id 3 , bemps_tid 14
+in PRE BEMPS FREE - changed_beacon.mem_B: 8920236032
+
+*** 3 stages of 2D forward DWT:
+pixWidth, pixHeight: 16384, 16384
+
+ sliding steps = 137 , gx = 86 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 69 , gx = 43 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 35 , gx = 22 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+14: LOG_before_pre1
+in PRE BEMPS FREE - beacon.mem_B: 8920236032
+in PRE BEMPS FREE - device_id : 3
+501674190349076 pre_bemps_free: pid 16062 , freeing device_id 3 , bemps_tid 14
+in PRE BEMPS FREE - changed_beacon.mem_B: 7846494208
+14: LOG_after_pre1
+
+*** 3 stages of 2D forward DWT:
+pixWidth, pixHeight: 16384, 16384
+
+ sliding steps = 137 , gx = 86 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 69 , gx = 43 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 35 , gx = 22 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+14: LOG before pthread create pthreads[1]
+14: LOG_before_pre2
+in PRE BEMPS FREE - beacon.mem_B: 7846494208
+in PRE BEMPS FREE - device_id : 3
+501674190445139 pre_bemps_free: pid 16062 , freeing device_id 3 , bemps_tid 14

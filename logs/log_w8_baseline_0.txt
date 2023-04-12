@@ -1,0 +1,300 @@
+661773936841364 ns, pid: 0
+661773936956783 bemps_init: bemps_shm.comm:      0x7f1b5b9fc078
+661773936964940 bemps_begin: pid 5299 , num_blocks 1048576 , threads_per_block 256 , bemps_begin
+661774465826436 bemps_beacon: pid 5299 , bemps_tid 0 , mem_B 5709496320 , warps 8388608 , device_id 0 , thread_blocks 1048576
+661775943839071 ns, pid: 1
+661775944001244 bemps_init: bemps_shm.comm:      0x7ff38585a078
+661775944017142 bemps_begin: pid 5350 , num_blocks 1048576 , threads_per_block 256 , bemps_begin
+661776091868983 bemps_beacon: pid 5350 , bemps_tid 1 , mem_B 7856979968 , warps 8388608 , device_id 1 , thread_blocks 1048576
+661777950990810 ns, pid: 2
+Source file:		rgb.bmp
+ Dimensions:		16384x16384
+ Components count:	3
+ Bit depth:		8
+ DWT levels:		3
+ Forward transform:	1
+ 9/7 transform:		0
+componentSize: 1073741824
+alignedSize: 805306368
+661777951184662 bemps_init: bemps_shm.comm:      0x7fbdae16d078
+661777951201791 bemps_begin: pid 5379 , num_blocks 192 , threads_per_block 256 , bemps_begin
+661778074088626 bemps_beacon: pid 5379 , bemps_tid 2 , mem_B 9725542400 , warps 1536 , device_id 2 , thread_blocks 192
+661779954175242 ns, pid: 3
+661779954354123 bemps_init: bemps_shm.comm:      0x7f8da4228078
+661779954370123 bemps_begin: pid 5411 , num_blocks 1048576 , threads_per_block 256 , bemps_begin
+661780216160191 bemps_beacon: pid 5411 , bemps_tid 3 , mem_B 5709496320 , warps 8388608 , device_id 3 , thread_blocks 1048576
+661781958419830 ns, pid: 4
+661781958580665 bemps_init: bemps_shm.comm:      0x7f42b7a8e078
+661781958596371 bemps_begin: pid 5447 , num_blocks 1048576 , threads_per_block 256 , bemps_begin
+661782083054570 bemps_beacon: pid 5447 , bemps_tid 4 , mem_B 7856979968 , warps 8388608 , device_id 0 , thread_blocks 1048576
+TIME STAMP (BEMPS_BEGIN). time: 1681288519044198443 ns, tid: 2
+Loading ipnput: ../../data/dwt2d/rgb.bmp
+precteno 3145782, inputsize 805306368
+componentSize: 1073741824
+alignedSize: 805306368
+
+grid.x: 192
+membytes: 4026531840
+rgb
+aligned size: 805306368
+
+*** 3 stages of 2D forward DWT:
+pixWidth, pixHeight: 16384, 16384
+
+ sliding steps = 137 , gx = 86 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 69 , gx = 43 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 35 , gx = 22 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+*** 3 stages of 2D forward DWT:
+pixWidth, pixHeight: 16384, 16384
+
+ sliding steps = 137 , gx = 86 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 69 , gx = 43 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 35 , gx = 22 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+*** 3 stages of 2D forward DWT:
+pixWidth, pixHeight: 16384, 16384
+
+ sliding steps = 137 , gx = 86 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 69 , gx = 43 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 35 , gx = 22 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+Writing to 2.r (16384 x 16384)
+
+Writing to 2.g (16384 x 16384)
+
+Writing to 2.b (16384 x 16384)
+661783786152460 bemps_free: pid 5379 , freeing device_id 2 , bemps_tid 2
+TIME STAMP (BEMPS_FREE). time: 1681288524756286187 ns, tid: 2
+661783786359201 _bemps_dump_stats: Dumping bemps stats
+661783786362699 _bemps_dump_stats: count of beacon times: 1
+661783786369528 _bemps_dump_stats: min beacon time (ns): 123009688
+661783786372368 _bemps_dump_stats: max beacon time (ns): 123009688
+661783786375221 _bemps_dump_stats: avg beacon time (ns): 1.2301e+08
+661783786400235 _bemps_dump_stats: count of free times: 1
+661783786402990 _bemps_dump_stats: min free time (ns): 130707
+661783786405903 _bemps_dump_stats: max free time (ns): 130707
+661783786408743 _bemps_dump_stats: avg free time (ns): 130707
+661783967334727 ns, pid: 5
+Source file:		rgb.bmp
+ Dimensions:		16384x16384
+ Components count:	3
+ Bit depth:		8
+ DWT levels:		3
+ Forward transform:	1
+ 9/7 transform:		0
+componentSize: 1073741824
+alignedSize: 805306368
+661783967549312 bemps_init: bemps_shm.comm:      0x7fdd9e722078
+661783967566193 bemps_begin: pid 5472 , num_blocks 192 , threads_per_block 256 , bemps_begin
+661785970600629 ns, pid: 6
+661785970844092 bemps_init: bemps_shm.comm:      0x7fac2aae5078
+661785970862143 bemps_begin: pid 5504 , num_blocks 1048576 , threads_per_block 256 , bemps_begin
+661787974194635 ns, pid: 7
+661787974353287 bemps_init: bemps_shm.comm:      0x7f728b863078
+661787974369635 bemps_begin: pid 5534 , num_blocks 1048576 , threads_per_block 256 , bemps_begin
+661789983720425 ns, pid: 8
+Source file:		rgb.bmp
+ Dimensions:		16384x16384
+ Components count:	3
+ Bit depth:		8
+ DWT levels:		3
+ Forward transform:	1
+ 9/7 transform:		0
+componentSize: 1073741824
+alignedSize: 805306368
+661789983924229 bemps_init: bemps_shm.comm:      0x7fbbd5b18078
+661789983953045 bemps_begin: pid 5549 , num_blocks 192 , threads_per_block 256 , bemps_begin
+661791986947917 ns, pid: 9
+661791987129207 bemps_init: bemps_shm.comm:      0x7f04d90e9078
+661791987146416 bemps_begin: pid 5589 , num_blocks 262144 , threads_per_block 256 , bemps_begin
+661793991215738 ns, pid: 10
+661793991373215 bemps_init: bemps_shm.comm:      0x7f546dfd2078
+661793991390326 bemps_begin: pid 5609 , num_blocks 262144 , threads_per_block 256 , bemps_begin
+661795999899360 ns, pid: 11
+Source file:		rgb.bmp
+ Dimensions:		8192x8192
+ Components count:	3
+ Bit depth:		8
+ DWT levels:		3
+ Forward transform:	1
+ 9/7 transform:		0
+componentSize: 268435456
+alignedSize: 201326592
+661796000104782 bemps_init: bemps_shm.comm:      0x7f62819cc078
+661796000123020 bemps_begin: pid 5640 , num_blocks 192 , threads_per_block 256 , bemps_begin
+661796999485457 ns, pid: 12
+661796999693775 bemps_init: bemps_shm.comm:      0x7f2462e25078
+661796999801083 bemps_begin: pid 5652 , num_blocks 1048576 , threads_per_block 256 , bemps_begin
+661799003450092 ns, pid: 13
+661799003616765 bemps_init: bemps_shm.comm:      0x7f8436d9c078
+661799003634297 bemps_begin: pid 5672 , num_blocks 1048576 , threads_per_block 256 , bemps_begin
+661801011852696 ns, pid: 14
+Source file:		rgb.bmp
+ Dimensions:		16384x16384
+ Components count:	3
+ Bit depth:		8
+ DWT levels:		3
+ Forward transform:	1
+ 9/7 transform:		0
+componentSize: 1073741824
+alignedSize: 805306368
+661801012060827 bemps_init: bemps_shm.comm:      0x7fbde50d2078
+661801012079880 bemps_begin: pid 5701 , num_blocks 192 , threads_per_block 256 , bemps_begin
+661803014552922 ns, pid: 15
+661803014749588 bemps_init: bemps_shm.comm:      0x7f60533f4078
+661803014770449 bemps_begin: pid 5724 , num_blocks 1048576 , threads_per_block 256 , bemps_begin
+661805018611976 ns, pid: 16
+661805018789747 bemps_init: bemps_shm.comm:      0x7fbfcbe3d078
+661805018807707 bemps_begin: pid 5737 , num_blocks 1048576 , threads_per_block 256 , bemps_begin
+661807027353694 ns, pid: 17
+Source file:		rgb.bmp
+ Dimensions:		16384x16384
+ Components count:	3
+ Bit depth:		8
+ DWT levels:		3
+ Forward transform:	1
+ 9/7 transform:		0
+componentSize: 1073741824
+alignedSize: 805306368
+661807027559142 bemps_init: bemps_shm.comm:      0x7f9ac2387078
+661807027577950 bemps_begin: pid 5759 , num_blocks 192 , threads_per_block 256 , bemps_begin
+661809030397389 ns, pid: 18
+661809030576145 bemps_init: bemps_shm.comm:      0x7f8bd1d71078
+661809030594005 bemps_begin: pid 5782 , num_blocks 1048576 , threads_per_block 256 , bemps_begin
+661811034372673 ns, pid: 19
+661811034532394 bemps_init: bemps_shm.comm:      0x7fa27aff3078
+661811034549390 bemps_begin: pid 5797 , num_blocks 1048576 , threads_per_block 256 , bemps_begin
+661813041065259 ns, pid: 20
+Source file:		rgb.bmp
+ Dimensions:		16384x16384
+ Components count:	3
+ Bit depth:		8
+ DWT levels:		3
+ Forward transform:	1
+ 9/7 transform:		0
+componentSize: 1073741824
+alignedSize: 805306368
+661813041234093 bemps_init: bemps_shm.comm:      0x7f7c5ac9c078
+661813041251871 bemps_begin: pid 5812 , num_blocks 192 , threads_per_block 256 , bemps_begin
+661815045535100 ns, pid: 21
+661815045710486 bemps_init: bemps_shm.comm:      0x7f3e9dacd078
+661815045727939 bemps_begin: pid 5818 , num_blocks 262144 , threads_per_block 256 , bemps_begin
+661817049512672 ns, pid: 22
+661817049670081 bemps_init: bemps_shm.comm:      0x7fdb57f4c078
+661817049706153 bemps_begin: pid 5843 , num_blocks 262144 , threads_per_block 256 , bemps_begin
+661819058041716 ns, pid: 23
+Source file:		rgb.bmp
+ Dimensions:		8192x8192
+ Components count:	3
+ Bit depth:		8
+ DWT levels:		3
+ Forward transform:	1
+ 9/7 transform:		0
+componentSize: 268435456
+alignedSize: 201326592
+661819058243503 bemps_init: bemps_shm.comm:      0x7fb0309d6078
+661819058260296 bemps_begin: pid 5850 , num_blocks 192 , threads_per_block 256 , bemps_begin
+661820057612079 ns, pid: 24
+661820057788412 bemps_init: bemps_shm.comm:      0x7f490e76d078
+661820057855712 bemps_begin: pid 5854 , num_blocks 1048576 , threads_per_block 256 , bemps_begin
+661822061793987 ns, pid: 25
+661822061960436 bemps_init: bemps_shm.comm:      0x7f53a4399078
+661822061975971 bemps_begin: pid 5878 , num_blocks 1048576 , threads_per_block 256 , bemps_begin
+661824069756141 ns, pid: 26
+Source file:		rgb.bmp
+ Dimensions:		16384x16384
+ Components count:	3
+ Bit depth:		8
+ DWT levels:		3
+ Forward transform:	1
+ 9/7 transform:		0
+componentSize: 1073741824
+alignedSize: 805306368
+661824069958571 bemps_init: bemps_shm.comm:      0x7fdeece80078
+661824069975278 bemps_begin: pid 5886 , num_blocks 192 , threads_per_block 256 , bemps_begin
+661826073021556 ns, pid: 27
+661826073192742 bemps_init: bemps_shm.comm:      0x7f6ad9629078
+661826073207852 bemps_begin: pid 5916 , num_blocks 1048576 , threads_per_block 256 , bemps_begin
+TIME STAMP (BEMPS_BEGIN). time: 1681288515435940137 ns, tid: 0
+GPU Runtime: 37.044821s
+timer starts
+timer ends
+CPU Runtime: 0.000004s
+Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 268419072
+661827126671864 bemps_free: pid 5299 , freeing device_id 0 , bemps_tid 0
+TIME STAMP (BEMPS_FREE). time: 1681288568096786613 ns, tid: 0
+661827126810459 _bemps_dump_stats: Dumping bemps stats
+661827126813838 _bemps_dump_stats: count of beacon times: 1
+661827126819929 _bemps_dump_stats: min beacon time (ns): 528957402
+661827126822701 _bemps_dump_stats: max beacon time (ns): 528957402
+661827126825560 _bemps_dump_stats: avg beacon time (ns): 5.28957e+08
+661827126856042 _bemps_dump_stats: count of free times: 1
+661827126858803 _bemps_dump_stats: min free time (ns): 56151
+661827126861604 _bemps_dump_stats: max free time (ns): 56151
+661827126864365 _bemps_dump_stats: avg free time (ns): 56151
+661828077256782 ns, pid: 28
+661828077425430 bemps_init: bemps_shm.comm:      0x7fe1f6549078
+661828077441070 bemps_begin: pid 5953 , num_blocks 1048576 , threads_per_block 256 , bemps_begin
+TIME STAMP (BEMPS_BEGIN). time: 1681288523053171049 ns, tid: 4
+GPU Runtime: 34.131308s
+CPU Runtime: 0.000000s
+Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 0
+661829665114996 bemps_free: pid 5447 , freeing device_id 0 , bemps_tid 4
+TIME STAMP (BEMPS_FREE). time: 1681288570635226772 ns, tid: 4
+661829665269540 _bemps_dump_stats: Dumping bemps stats
+661829665273111 _bemps_dump_stats: count of beacon times: 1
+661829665278798 _bemps_dump_stats: min beacon time (ns): 124586112
+661829665281415 _bemps_dump_stats: max beacon time (ns): 124586112
+661829665283975 _bemps_dump_stats: avg beacon time (ns): 1.24586e+08
+661829665303775 _bemps_dump_stats: count of free times: 1
+661829665306455 _bemps_dump_stats: min free time (ns): 67625
+661829665309011 _bemps_dump_stats: max free time (ns): 67625
+661829665311600 _bemps_dump_stats: avg free time (ns): 67625
+TIME STAMP (BEMPS_BEGIN). time: 1681288521186276706 ns, tid: 3
+GPU Runtime: 34.683809s
+timer starts
+timer ends
+CPU Runtime: 0.000000s
+Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 0
+661829918136652 bemps_free: pid 5411 , freeing device_id 3 , bemps_tid 3
+TIME STAMP (BEMPS_FREE). time: 1681288570888270502 ns, tid: 3
+661829918315544 _bemps_dump_stats: Dumping bemps stats
+661829918319021 _bemps_dump_stats: count of beacon times: 1
+661829918324499 _bemps_dump_stats: min beacon time (ns): 261921356
+661829918327294 _bemps_dump_stats: max beacon time (ns): 261921356
+661829918330330 _bemps_dump_stats: avg beacon time (ns): 2.61921e+08
+661829918349634 _bemps_dump_stats: count of free times: 1
+661829918360377 _bemps_dump_stats: min free time (ns): 115694
+661829918363203 _bemps_dump_stats: max free time (ns): 115694
+661829918365955 _bemps_dump_stats: avg free time (ns): 115694
+TIME STAMP (BEMPS_BEGIN). time: 1681288517061979432 ns, tid: 1
+GPU Runtime: 40.933372s
+CPU Runtime: 0.000000s
+Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 0
+661830011448324 bemps_free: pid 5350 , freeing device_id 1 , bemps_tid 1
+TIME STAMP (BEMPS_FREE). time: 1681288570981570995 ns, tid: 1
+661830011640401 _bemps_dump_stats: Dumping bemps stats
+661830011644029 _bemps_dump_stats: count of beacon times: 1
+661830011651240 _bemps_dump_stats: min beacon time (ns): 147980352
+661830011654566 _bemps_dump_stats: max beacon time (ns): 147980352
+661830011657761 _bemps_dump_stats: avg beacon time (ns): 1.4798e+08
+661830011687216 _bemps_dump_stats: count of free times: 1
+661830011690509 _bemps_dump_stats: min free time (ns): 86323
+661830011693734 _bemps_dump_stats: max free time (ns): 86323
+661830011696981 _bemps_dump_stats: avg free time (ns): 86323

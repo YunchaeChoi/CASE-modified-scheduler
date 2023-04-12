@@ -1,0 +1,73 @@
+2  6551975022
+11  6710052553
+5  8308802692
+9  9452998635
+8  9634991641
+10  11804573715
+14  17114935851
+17  23583307638
+26  29791222009
+3  34838715160
+29  36115518132
+20  39617006365
+0  45312696844
+1  47570391316
+32  52112710066
+4  82471882297
+13  88976082370
+7  89158541886
+19  100965654441
+16  119531099622
+25  126092661043
+28  126387608194
+6  131954206985
+31  138082599843
+12  138479377203
+15  138618936268
+18  150450424635
+23  151018162375
+35  151035170874
+24  159754764774
+22  163675580189
+27  164707622934
+30  164842570811
+34  165222353451
+21  165456476270
+33  165632780728
+----------------------
+507456964748453 bemps_free: pid 24294 , freeing device_id 0 , bemps_tid 326
+507457122850268 bemps_free: pid 24407 , freeing device_id 3 , bemps_tid 335
+507458721600910 bemps_free: pid 24322 , freeing device_id 1 , bemps_tid 329
+507459865801343 bemps_free: pid 24391 , freeing device_id 1 , bemps_tid 333
+507460047765112 bemps_free: pid 24374 , freeing device_id 2 , bemps_tid 332
+507462217380556 bemps_free: pid 24400 , freeing device_id 3 , bemps_tid 334
+507467527736417 bemps_free: pid 24447 , freeing device_id 3 , bemps_tid 338
+507473996113497 bemps_free: pid 24482 , freeing device_id 3 , bemps_tid 341
+507480204024694 bemps_free: pid 24655 , freeing device_id 3 , bemps_tid 350
+507485251503899 bemps_free: pid 24299 , freeing device_id 1 , bemps_tid 327
+507486528319236 bemps_free: pid 24698 , freeing device_id 3 , bemps_tid 353
+507490029819711 bemps_free: pid 24599 , freeing device_id 1 , bemps_tid 344
+507495725506568 bemps_free: pid 24278 , freeing device_id 0 , bemps_tid 324
+507497983202378 bemps_free: pid 24287 , freeing device_id 2 , bemps_tid 325
+507502525525255 bemps_free: pid 24724 , freeing device_id 2 , bemps_tid 356
+507532884693181 bemps_free: pid 24318 , freeing device_id 0 , bemps_tid 328
+507539388885983 bemps_free: pid 24436 , freeing device_id 1 , bemps_tid 337
+507539571355024 bemps_free: pid 24354 , freeing device_id 3 , bemps_tid 331
+507551378467625 bemps_free: pid 24588 , freeing device_id 2 , bemps_tid 343
+507569943913207 bemps_free: pid 24471 , freeing device_id 0 , bemps_tid 340
+507576505477221 bemps_free: pid 24634 , freeing device_id 1 , bemps_tid 349
+507576800423496 bemps_free: pid 24678 , freeing device_id 3 , bemps_tid 352
+507582367020712 bemps_free: pid 24352 , freeing device_id 0 , bemps_tid 330
+507588495416119 bemps_free: pid 24714 , freeing device_id 2 , bemps_tid 355
+507588892189662 bemps_free: pid 24416 , freeing device_id 1 , bemps_tid 336
+507589031752536 bemps_free: pid 24458 , freeing device_id 3 , bemps_tid 339
+507600863242367 bemps_free: pid 24505 , freeing device_id 2 , bemps_tid 342
+507601430974400 bemps_free: pid 24626 , freeing device_id 2 , bemps_tid 347
+507601447990058 bemps_free: pid 24743 , freeing device_id 2 , bemps_tid 359
+507610167580176 bemps_free: pid 24630 , freeing device_id 0 , bemps_tid 348
+507614088397768 bemps_free: pid 24619 , freeing device_id 0 , bemps_tid 346
+507615120422748 bemps_free: pid 24658 , freeing device_id 1 , bemps_tid 351
+507615255387987 bemps_free: pid 24706 , freeing device_id 3 , bemps_tid 354
+507615635170556 bemps_free: pid 24734 , freeing device_id 0 , bemps_tid 358
+507615869290949 bemps_free: pid 24612 , freeing device_id 1 , bemps_tid 345
+507616045600456 bemps_free: pid 24725 , freeing device_id 3 , bemps_tid 357

@@ -1,0 +1,73 @@
+0  2
+511846869  0
+812352412  1
+1361506123  5
+1913885364  3
+2314212427  4
+2874067289  8
+3415540269  6
+4016462718  7
+4381645911  11
+5118240741  9
+5518706939  10
+5913349247  14
+6520117428  12
+7020613991  13
+7473297202  17
+8021602995  15
+8622203387  16
+9115874174  20
+9623149637  18
+10223670331  19
+10635276543  23
+11024339976  21
+11624846758  22
+12014391399  26
+12525606832  24
+13126192614  25
+13489169707  29
+14027052859  27
+14827939868  28
+15001925971  32
+15728843878  30
+16531031882  35
+16729912433  31
+17230369111  33
+17930912297  34
+----------------------
+261425900667962 bemps_beacon: pid 23844 , bemps_tid 2 , mem_B 2679111680 , warps 1536 , device_id 0 , thread_blocks 192
+261426412493534 bemps_beacon: pid 23826 , bemps_tid 0 , mem_B 1682964480 , warps 2097152 , device_id 1 , thread_blocks 262144
+261426713017204 bemps_beacon: pid 23828 , bemps_tid 1 , mem_B 2219835392 , warps 2097152 , device_id 2 , thread_blocks 262144
+261427262179018 bemps_beacon: pid 23895 , bemps_tid 5 , mem_B 2679111680 , warps 1536 , device_id 3 , thread_blocks 192
+261427814524669 bemps_beacon: pid 23859 , bemps_tid 3 , mem_B 1682964480 , warps 2097152 , device_id 0 , thread_blocks 262144
+261428214876205 bemps_beacon: pid 23865 , bemps_tid 4 , mem_B 2219835392 , warps 2097152 , device_id 3 , thread_blocks 262144
+261428774736418 bemps_beacon: pid 23935 , bemps_tid 8 , mem_B 2679111680 , warps 1536 , device_id 0 , thread_blocks 192
+261429316193836 bemps_beacon: pid 23903 , bemps_tid 6 , mem_B 1682964480 , warps 2097152 , device_id 1 , thread_blocks 262144
+261429917153545 bemps_beacon: pid 23917 , bemps_tid 7 , mem_B 2219835392 , warps 2097152 , device_id 2 , thread_blocks 262144
+261430282298373 bemps_beacon: pid 23977 , bemps_tid 11 , mem_B 2679111680 , warps 1536 , device_id 3 , thread_blocks 192
+261431018863834 bemps_beacon: pid 23949 , bemps_tid 9 , mem_B 1682964480 , warps 2097152 , device_id 1 , thread_blocks 262144
+261431419384558 bemps_beacon: pid 23965 , bemps_tid 10 , mem_B 2219835392 , warps 2097152 , device_id 0 , thread_blocks 262144
+261431814026443 bemps_beacon: pid 24018 , bemps_tid 14 , mem_B 2679111680 , warps 1536 , device_id 3 , thread_blocks 192
+261432420783492 bemps_beacon: pid 23995 , bemps_tid 12 , mem_B 1682964480 , warps 2097152 , device_id 0 , thread_blocks 262144
+261432921257005 bemps_beacon: pid 24004 , bemps_tid 13 , mem_B 2219835392 , warps 2097152 , device_id 2 , thread_blocks 262144
+261433373976260 bemps_beacon: pid 24067 , bemps_tid 17 , mem_B 2679111680 , warps 1536 , device_id 3 , thread_blocks 192
+261433922246922 bemps_beacon: pid 24041 , bemps_tid 15 , mem_B 1682964480 , warps 2097152 , device_id 1 , thread_blocks 262144
+261434522865278 bemps_beacon: pid 24050 , bemps_tid 16 , mem_B 2219835392 , warps 2097152 , device_id 3 , thread_blocks 262144
+261435016537061 bemps_beacon: pid 24114 , bemps_tid 20 , mem_B 2679111680 , warps 1536 , device_id 3 , thread_blocks 192
+261435523808046 bemps_beacon: pid 24081 , bemps_tid 18 , mem_B 1682964480 , warps 2097152 , device_id 3 , thread_blocks 262144
+261436124291840 bemps_beacon: pid 24100 , bemps_tid 19 , mem_B 2219835392 , warps 2097152 , device_id 0 , thread_blocks 262144
+261436535948832 bemps_beacon: pid 24144 , bemps_tid 23 , mem_B 2679111680 , warps 1536 , device_id 1 , thread_blocks 192
+261436925030323 bemps_beacon: pid 24124 , bemps_tid 21 , mem_B 1682964480 , warps 2097152 , device_id 2 , thread_blocks 262144
+261437525498904 bemps_beacon: pid 24133 , bemps_tid 22 , mem_B 2219835392 , warps 2097152 , device_id 3 , thread_blocks 262144
+261437915062585 bemps_beacon: pid 24188 , bemps_tid 26 , mem_B 2679111680 , warps 1536 , device_id 1 , thread_blocks 192
+261438426296370 bemps_beacon: pid 24153 , bemps_tid 24 , mem_B 1682964480 , warps 2097152 , device_id 1 , thread_blocks 262144
+261439026852395 bemps_beacon: pid 24177 , bemps_tid 25 , mem_B 2219835392 , warps 2097152 , device_id 0 , thread_blocks 262144
+261439389834949 bemps_beacon: pid 24238 , bemps_tid 29 , mem_B 2679111680 , warps 1536 , device_id 1 , thread_blocks 192
+261439927721729 bemps_beacon: pid 24199 , bemps_tid 27 , mem_B 1682964480 , warps 2097152 , device_id 1 , thread_blocks 262144
+261440728620177 bemps_beacon: pid 24217 , bemps_tid 28 , mem_B 2219835392 , warps 2097152 , device_id 0 , thread_blocks 262144
+261440902595922 bemps_beacon: pid 24271 , bemps_tid 32 , mem_B 2679111680 , warps 1536 , device_id 2 , thread_blocks 192
+261441629526183 bemps_beacon: pid 24246 , bemps_tid 30 , mem_B 1682964480 , warps 2097152 , device_id 2 , thread_blocks 262144
+261442431700512 bemps_beacon: pid 24311 , bemps_tid 35 , mem_B 2679111680 , warps 1536 , device_id 1 , thread_blocks 192
+261442630582234 bemps_beacon: pid 24263 , bemps_tid 31 , mem_B 2219835392 , warps 2097152 , device_id 0 , thread_blocks 262144
+261443131021805 bemps_beacon: pid 24276 , bemps_tid 33 , mem_B 1682964480 , warps 2097152 , device_id 3 , thread_blocks 262144
+261443831609898 bemps_beacon: pid 24297 , bemps_tid 34 , mem_B 2219835392 , warps 2097152 , device_id 2 , thread_blocks 262144

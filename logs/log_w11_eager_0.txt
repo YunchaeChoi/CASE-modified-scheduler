@@ -1,0 +1,1884 @@
+2: LOG_before
+308157051430271 bemps_begin: pid 32351 , num_blocks 192 , threads_per_block 256 , bemps_begin
+308157175691656 bemps_beacon: pid 32351 , bemps_tid 2 , mem_B 9725542400 , warps 1536 , device_id 0 , thread_blocks 192
+TIME STAMP (BEMPS_BEGIN). time: 1680934898145799785 ns, tid: 2
+2: LOG_after
+rgb
+154
+pre_bemps_free alignedSize!!
+in PRE BEMPS FREE - beacon.mem_B: 9725542400
+in PRE BEMPS FREE - device_id : 0
+308157843880161 pre_bemps_free: pid 32351 , freeing device_id 0 , bemps_tid 2
+in PRE BEMPS FREE - changed_beacon.mem_B: 8920236032
+
+*** 3 stages of 2D forward DWT:
+pixWidth, pixHeight: 16384, 16384
+
+ sliding steps = 137 , gx = 86 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 69 , gx = 43 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 35 , gx = 22 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+2: LOG_before_pre1
+in PRE BEMPS FREE - beacon.mem_B: 8920236032
+in PRE BEMPS FREE - device_id : 0
+308157854480163 pre_bemps_free: pid 32351 , freeing device_id 0 , bemps_tid 2
+in PRE BEMPS FREE - changed_beacon.mem_B: 7846494208
+2: LOG_after_pre1
+
+*** 3 stages of 2D forward DWT:
+pixWidth, pixHeight: 16384, 16384
+
+ sliding steps = 137 , gx = 86 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 69 , gx = 43 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 35 , gx = 22 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+2: LOG_before_pre2
+in PRE BEMPS FREE - beacon.mem_B: 7846494208
+in PRE BEMPS FREE - device_id : 0
+308157864799734 pre_bemps_free: pid 32351 , freeing device_id 0 , bemps_tid 2
+in PRE BEMPS FREE - changed_beacon.mem_B: 6772752384
+2: LOG_after_pre2
+
+*** 3 stages of 2D forward DWT:
+pixWidth, pixHeight: 16384, 16384
+
+ sliding steps = 137 , gx = 86 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 69 , gx = 43 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 35 , gx = 22 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+2: LOG_before_pre3
+in PRE BEMPS FREE - beacon.mem_B: 6772752384
+in PRE BEMPS FREE - device_id : 0
+308157875807027 pre_bemps_free: pid 32351 , freeing device_id 0 , bemps_tid 2
+5: LOG_before
+308158561433913 bemps_begin: pid 32389 , num_blocks 192 , threads_per_block 256 , bemps_begin
+308158682467758 bemps_beacon: pid 32389 , bemps_tid 5 , mem_B 9725542400 , warps 1536 , device_id 1 , thread_blocks 192
+TIME STAMP (BEMPS_BEGIN). time: 1680934899652580479 ns, tid: 5
+5: LOG_after
+rgb
+154
+pre_bemps_free alignedSize!!
+in PRE BEMPS FREE - beacon.mem_B: 9725542400
+in PRE BEMPS FREE - device_id : 1
+308159389900908 pre_bemps_free: pid 32389 , freeing device_id 1 , bemps_tid 5
+in PRE BEMPS FREE - changed_beacon.mem_B: 8920236032
+
+*** 3 stages of 2D forward DWT:
+pixWidth, pixHeight: 16384, 16384
+
+ sliding steps = 137 , gx = 86 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 69 , gx = 43 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 35 , gx = 22 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+5: LOG_before_pre1
+in PRE BEMPS FREE - beacon.mem_B: 8920236032
+in PRE BEMPS FREE - device_id : 1
+308159400668851 pre_bemps_free: pid 32389 , freeing device_id 1 , bemps_tid 5
+in PRE BEMPS FREE - changed_beacon.mem_B: 7846494208
+5: LOG_after_pre1
+
+*** 3 stages of 2D forward DWT:
+pixWidth, pixHeight: 16384, 16384
+
+ sliding steps = 137 , gx = 86 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 69 , gx = 43 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 35 , gx = 22 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+5: LOG_before_pre2
+in PRE BEMPS FREE - beacon.mem_B: 7846494208
+in PRE BEMPS FREE - device_id : 1
+308159411583258 pre_bemps_free: pid 32389 , freeing device_id 1 , bemps_tid 5
+in PRE BEMPS FREE - changed_beacon.mem_B: 6772752384
+5: LOG_after_pre2
+
+*** 3 stages of 2D forward DWT:
+pixWidth, pixHeight: 16384, 16384
+
+ sliding steps = 137 , gx = 86 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 69 , gx = 43 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 35 , gx = 22 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+5: LOG_before_pre3
+in PRE BEMPS FREE - beacon.mem_B: 6772752384
+in PRE BEMPS FREE - device_id : 1
+308159422805771 pre_bemps_free: pid 32389 , freeing device_id 1 , bemps_tid 5
+8: LOG_before
+308160074052357 bemps_begin: pid 32421 , num_blocks 192 , threads_per_block 256 , bemps_begin
+308160245044049 bemps_beacon: pid 32421 , bemps_tid 8 , mem_B 9725542400 , warps 1536 , device_id 2 , thread_blocks 192
+TIME STAMP (BEMPS_BEGIN). time: 1680934901215161614 ns, tid: 8
+8: LOG_after
+rgb
+154
+pre_bemps_free alignedSize!!
+in PRE BEMPS FREE - beacon.mem_B: 9725542400
+in PRE BEMPS FREE - device_id : 2
+308161240356859 pre_bemps_free: pid 32421 , freeing device_id 2 , bemps_tid 8
+in PRE BEMPS FREE - changed_beacon.mem_B: 8920236032
+
+*** 3 stages of 2D forward DWT:
+pixWidth, pixHeight: 16384, 16384
+
+ sliding steps = 137 , gx = 86 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 69 , gx = 43 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 35 , gx = 22 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+8: LOG_before_pre1
+in PRE BEMPS FREE - beacon.mem_B: 8920236032
+in PRE BEMPS FREE - device_id : 2
+308161251352792 pre_bemps_free: pid 32421 , freeing device_id 2 , bemps_tid 8
+in PRE BEMPS FREE - changed_beacon.mem_B: 7846494208
+8: LOG_after_pre1
+
+*** 3 stages of 2D forward DWT:
+pixWidth, pixHeight: 16384, 16384
+
+ sliding steps = 137 , gx = 86 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 69 , gx = 43 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 35 , gx = 22 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+8: LOG_before_pre2
+in PRE BEMPS FREE - beacon.mem_B: 7846494208
+in PRE BEMPS FREE - device_id : 2
+308161261728335 pre_bemps_free: pid 32421 , freeing device_id 2 , bemps_tid 8
+in PRE BEMPS FREE - changed_beacon.mem_B: 6772752384
+8: LOG_after_pre2
+
+*** 3 stages of 2D forward DWT:
+pixWidth, pixHeight: 16384, 16384
+
+ sliding steps = 137 , gx = 86 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 69 , gx = 43 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 35 , gx = 22 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+8: LOG_before_pre3
+in PRE BEMPS FREE - beacon.mem_B: 6772752384
+in PRE BEMPS FREE - device_id : 2
+308161273094401 pre_bemps_free: pid 32421 , freeing device_id 2 , bemps_tid 8
+11: LOG_before
+308161584830735 bemps_begin: pid 32517 , num_blocks 192 , threads_per_block 256 , bemps_begin
+308162019256686 bemps_beacon: pid 32517 , bemps_tid 11 , mem_B 9725542400 , warps 1536 , device_id 3 , thread_blocks 192
+setting device 0 with name Tesla V100-SXM2-32GB
+0: LOG_before
+308162224329725 bemps_begin: pid 32323 , num_blocks 1048576 , threads_per_block 256 , bemps_begin
+308162312584094 bemps_beacon: pid 32323 , bemps_tid 0 , mem_B 5709496320 , warps 8388608 , device_id 0 , thread_blocks 1048576
+setting device 0 with name Tesla V100-SXM2-32GB
+1: LOG_before
+308162659931775 bemps_begin: pid 32330 , num_blocks 1048576 , threads_per_block 256 , bemps_begin
+308162713074789 bemps_beacon: pid 32330 , bemps_tid 1 , mem_B 7856979968 , warps 8388608 , device_id 1 , thread_blocks 1048576
+TIME STAMP (BEMPS_BEGIN). time: 1680934902989397442 ns, tid: 11
+11: LOG_after
+rgb
+154
+pre_bemps_free alignedSize!!
+in PRE BEMPS FREE - beacon.mem_B: 9725542400
+in PRE BEMPS FREE - device_id : 3
+308162961199985 pre_bemps_free: pid 32517 , freeing device_id 3 , bemps_tid 11
+in PRE BEMPS FREE - changed_beacon.mem_B: 8920236032
+
+*** 3 stages of 2D forward DWT:
+pixWidth, pixHeight: 16384, 16384
+
+ sliding steps = 137 , gx = 86 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 69 , gx = 43 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 35 , gx = 22 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+11: LOG_before_pre1
+in PRE BEMPS FREE - beacon.mem_B: 8920236032
+in PRE BEMPS FREE - device_id : 3
+308162972860031 pre_bemps_free: pid 32517 , freeing device_id 3 , bemps_tid 11
+in PRE BEMPS FREE - changed_beacon.mem_B: 7846494208
+11: LOG_after_pre1
+
+*** 3 stages of 2D forward DWT:
+pixWidth, pixHeight: 16384, 16384
+
+ sliding steps = 137 , gx = 86 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 69 , gx = 43 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 35 , gx = 22 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+11: LOG_before_pre2
+in PRE BEMPS FREE - beacon.mem_B: 7846494208
+in PRE BEMPS FREE - device_id : 3
+308162983448630 pre_bemps_free: pid 32517 , freeing device_id 3 , bemps_tid 11
+in PRE BEMPS FREE - changed_beacon.mem_B: 6772752384
+11: LOG_after_pre2
+
+*** 3 stages of 2D forward DWT:
+pixWidth, pixHeight: 16384, 16384
+
+ sliding steps = 137 , gx = 86 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 69 , gx = 43 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 35 , gx = 22 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+11: LOG_before_pre3
+in PRE BEMPS FREE - beacon.mem_B: 6772752384
+in PRE BEMPS FREE - device_id : 3
+308162994738108 pre_bemps_free: pid 32517 , freeing device_id 3 , bemps_tid 11
+14: LOG_before
+308163090034264 bemps_begin: pid 32588 , num_blocks 192 , threads_per_block 256 , bemps_begin
+in PRE BEMPS FREE - changed_beacon.mem_B: 5699010560
+2: LOG_after_pre3
+
+Writing to 2.r (16384 x 16384)
+
+Writing to 2.g (16384 x 16384)
+
+Writing to 2.b (16384 x 16384)
+308163637538149 bemps_free: pid 32351 , freeing device_id 0 , bemps_tid 2
+TIME STAMP (BEMPS_FREE). time: 1680934904607657625 ns, tid: 2
+2: LOG_before_end
+2: LOG_after_end
+308163637696759 _bemps_dump_stats: Dumping bemps stats
+308163637701249 _bemps_dump_stats: count of beacon times: 1
+308163637708256 _bemps_dump_stats: min beacon time (ns): 124368305
+308163637711631 _bemps_dump_stats: max beacon time (ns): 124368305
+308163637714889 _bemps_dump_stats: avg beacon time (ns): 1.24368e+08
+308163637740939 _bemps_dump_stats: count of free times: 5
+308163637744151 _bemps_dump_stats: min free time (ns): 10863
+308163637747349 _bemps_dump_stats: max free time (ns): 78835
+308163637750492 _bemps_dump_stats: avg free time (ns): 30812.6
+setting device 0 with name Tesla V100-SXM2-32GB
+3: LOG_before
+308163870534503 bemps_begin: pid 32369 , num_blocks 1048576 , threads_per_block 256 , bemps_begin
+308163915736443 bemps_beacon: pid 32369 , bemps_tid 3 , mem_B 5709496320 , warps 8388608 , device_id 2 , thread_blocks 1048576
+setting device 0 with name Tesla V100-SXM2-32GB
+4: LOG_before
+308164312634166 bemps_begin: pid 32378 , num_blocks 1048576 , threads_per_block 256 , bemps_begin
+308164316428754 bemps_beacon: pid 32378 , bemps_tid 4 , mem_B 7856979968 , warps 8388608 , device_id 3 , thread_blocks 1048576
+17: LOG_before
+308164603308049 bemps_begin: pid 32616 , num_blocks 192 , threads_per_block 256 , bemps_begin
+in PRE BEMPS FREE - changed_beacon.mem_B: 5699010560
+5: LOG_after_pre3
+
+Writing to 5.r (16384 x 16384)
+
+Writing to 5.g (16384 x 16384)
+
+Writing to 5.b (16384 x 16384)
+308165186063955 bemps_free: pid 32389 , freeing device_id 1 , bemps_tid 5
+TIME STAMP (BEMPS_FREE). time: 1680934906156181449 ns, tid: 5
+5: LOG_before_end
+5: LOG_after_end
+308165186221844 _bemps_dump_stats: Dumping bemps stats
+308165186225551 _bemps_dump_stats: count of beacon times: 1
+308165186232529 _bemps_dump_stats: min beacon time (ns): 121160412
+308165186235709 _bemps_dump_stats: max beacon time (ns): 121160412
+308165186238855 _bemps_dump_stats: avg beacon time (ns): 1.2116e+08
+308165186265472 _bemps_dump_stats: count of free times: 5
+308165186268793 _bemps_dump_stats: min free time (ns): 14806
+308165186271937 _bemps_dump_stats: max free time (ns): 78120
+308165186275073 _bemps_dump_stats: avg free time (ns): 34942.8
+setting device 0 with name Tesla V100-SXM2-32GB
+6: LOG_before
+308165372409379 bemps_begin: pid 32407 , num_blocks 1048576 , threads_per_block 256 , bemps_begin
+308165418782521 bemps_beacon: pid 32407 , bemps_tid 6 , mem_B 5709496320 , warps 8388608 , device_id 0 , thread_blocks 1048576
+setting device 0 with name Tesla V100-SXM2-32GB
+7: LOG_before
+308166012031064 bemps_begin: pid 32409 , num_blocks 1048576 , threads_per_block 256 , bemps_begin
+20: LOG_before
+308166105816800 bemps_begin: pid 32647 , num_blocks 192 , threads_per_block 256 , bemps_begin
+in PRE BEMPS FREE - changed_beacon.mem_B: 5699010560
+8: LOG_after_pre3
+
+Writing to 8.r (16384 x 16384)
+
+Writing to 8.g (16384 x 16384)
+
+Writing to 8.b (16384 x 16384)
+308167032276255 bemps_free: pid 32421 , freeing device_id 2 , bemps_tid 8
+TIME STAMP (BEMPS_FREE). time: 1680934908002424488 ns, tid: 8
+8: LOG_before_end
+8: LOG_after_end
+308167032481832 _bemps_dump_stats: Dumping bemps stats
+308167032485925 _bemps_dump_stats: count of beacon times: 1
+308167032492838 _bemps_dump_stats: min beacon time (ns): 171118194
+308167032496045 _bemps_dump_stats: max beacon time (ns): 171118194
+308167032499184 _bemps_dump_stats: avg beacon time (ns): 1.71118e+08
+308167032527379 _bemps_dump_stats: count of free times: 5
+308167032530589 _bemps_dump_stats: min free time (ns): 12410
+308167032533749 _bemps_dump_stats: max free time (ns): 157407
+308167032536966 _bemps_dump_stats: avg free time (ns): 51736.8
+308167124234587 bemps_beacon: pid 32409 , bemps_tid 7 , mem_B 7856979968 , warps 8388608 , device_id 2 , thread_blocks 1048576
+setting device 0 with name Tesla V100-SXM2-32GB
+9: LOG_before
+308167192995677 bemps_begin: pid 32435 , num_blocks 1048576 , threads_per_block 256 , bemps_begin
+308167224637229 bemps_beacon: pid 32435 , bemps_tid 9 , mem_B 5709496320 , warps 8388608 , device_id 1 , thread_blocks 1048576
+23: LOG_before
+308167612697325 bemps_begin: pid 32679 , num_blocks 192 , threads_per_block 256 , bemps_begin
+setting device 0 with name Tesla V100-SXM2-32GB
+10: LOG_before
+308167816909179 bemps_begin: pid 32447 , num_blocks 1048576 , threads_per_block 256 , bemps_begin
+setting device 0 with name Tesla V100-SXM2-32GB
+12: LOG_before
+308168715705931 bemps_begin: pid 32539 , num_blocks 1048576 , threads_per_block 256 , bemps_begin
+in PRE BEMPS FREE - changed_beacon.mem_B: 5699010560
+11: LOG_after_pre3
+
+Writing to 11.r (16384 x 16384)
+
+Writing to 11.g (16384 x 16384)
+
+Writing to 11.b (16384 x 16384)
+308168835265512 bemps_free: pid 32517 , freeing device_id 3 , bemps_tid 11
+TIME STAMP (BEMPS_FREE). time: 1680934909805381907 ns, tid: 11
+11: LOG_before_end
+11: LOG_after_end
+308168835421097 _bemps_dump_stats: Dumping bemps stats
+308168835425256 _bemps_dump_stats: count of beacon times: 1
+308168835432312 _bemps_dump_stats: min beacon time (ns): 434571301
+308168835435533 _bemps_dump_stats: max beacon time (ns): 434571301
+308168835438772 _bemps_dump_stats: avg beacon time (ns): 4.34571e+08
+308168835471388 _bemps_dump_stats: count of free times: 5
+308168835474695 _bemps_dump_stats: min free time (ns): 16788
+308168835477987 _bemps_dump_stats: max free time (ns): 76332
+308168835481405 _bemps_dump_stats: avg free time (ns): 42553.2
+308168929413618 bemps_beacon: pid 32539 , bemps_tid 12 , mem_B 5709496320 , warps 8388608 , device_id 3 , thread_blocks 1048576
+26: LOG_before
+308169120071816 bemps_begin: pid 32713 , num_blocks 192 , threads_per_block 256 , bemps_begin
+setting device 0 with name Tesla V100-SXM2-32GB
+13: LOG_before
+308169272802963 bemps_begin: pid 32570 , num_blocks 1048576 , threads_per_block 256 , bemps_begin
+setting device 0 with name Tesla V100-SXM2-32GB
+15: LOG_before
+308170125976432 bemps_begin: pid 32589 , num_blocks 1048576 , threads_per_block 256 , bemps_begin
+29: LOG_before
+308170626947027 bemps_begin: pid 32732 , num_blocks 192 , threads_per_block 256 , bemps_begin
+setting device 0 with name Tesla V100-SXM2-32GB
+16: LOG_before
+308170883407448 bemps_begin: pid 32605 , num_blocks 1048576 , threads_per_block 256 , bemps_begin
+setting device 0 with name Tesla V100-SXM2-32GB
+18: LOG_before
+308171610300016 bemps_begin: pid 32622 , num_blocks 1048576 , threads_per_block 256 , bemps_begin
+32: LOG_before
+308172133482513 bemps_begin: pid 390 , num_blocks 192 , threads_per_block 256 , bemps_begin
+setting device 0 with name Tesla V100-SXM2-32GB
+19: LOG_before
+308172529629740 bemps_begin: pid 32628 , num_blocks 1048576 , threads_per_block 256 , bemps_begin
+35: LOG_before
+308173640418540 bemps_begin: pid 418 , num_blocks 192 , threads_per_block 256 , bemps_begin
+setting device 0 with name Tesla V100-SXM2-32GB
+21: LOG_before
+308173725630684 bemps_begin: pid 32648 , num_blocks 1048576 , threads_per_block 256 , bemps_begin
+setting device 0 with name Tesla V100-SXM2-32GB
+22: LOG_before
+308174702753817 bemps_begin: pid 32667 , num_blocks 1048576 , threads_per_block 256 , bemps_begin
+setting device 0 with name Tesla V100-SXM2-32GB
+24: LOG_before
+308174763833423 bemps_begin: pid 32689 , num_blocks 1048576 , threads_per_block 256 , bemps_begin
+setting device 0 with name Tesla V100-SXM2-32GB
+25: LOG_before
+308175298723923 bemps_begin: pid 32691 , num_blocks 1048576 , threads_per_block 256 , bemps_begin
+setting device 0 with name Tesla V100-SXM2-32GB
+27: LOG_before
+308176527433377 bemps_begin: pid 32716 , num_blocks 1048576 , threads_per_block 256 , bemps_begin
+setting device 0 with name Tesla V100-SXM2-32GB
+28: LOG_before
+308177141571162 bemps_begin: pid 32725 , num_blocks 1048576 , threads_per_block 256 , bemps_begin
+setting device 0 with name Tesla V100-SXM2-32GB
+30: LOG_before
+308177529271863 bemps_begin: pid 32745 , num_blocks 1048576 , threads_per_block 256 , bemps_begin
+setting device 0 with name Tesla V100-SXM2-32GB
+31: LOG_before
+308178327583445 bemps_begin: pid 32755 , num_blocks 1048576 , threads_per_block 256 , bemps_begin
+TIME STAMP (BEMPS_BEGIN). time: 1680934903282727534 ns, tid: 0
+0: LOG_after
+0: LOG_before_pre1
+in PRE BEMPS FREE - beacon.mem_B: 5709496320
+in PRE BEMPS FREE - device_id : 0
+308179319235544 pre_bemps_free: pid 32323 , freeing device_id 0 , bemps_tid 0
+setting device 0 with name Tesla V100-SXM2-32GB
+33: LOG_before
+308179360440846 bemps_begin: pid 393 , num_blocks 1048576 , threads_per_block 256 , bemps_begin
+TIME STAMP (BEMPS_BEGIN). time: 1680934903683223289 ns, tid: 1
+1: LOG_after
+1: LOG_before_pre1
+in PRE BEMPS FREE - beacon.mem_B: 7856979968
+in PRE BEMPS FREE - device_id : 1
+308179611595295 pre_bemps_free: pid 32330 , freeing device_id 1 , bemps_tid 1
+TIME STAMP (BEMPS_BEGIN). time: 1680934905286540360 ns, tid: 4
+4: LOG_after
+4: LOG_before_pre1
+in PRE BEMPS FREE - beacon.mem_B: 7856979968
+in PRE BEMPS FREE - device_id : 3
+308179804654142 pre_bemps_free: pid 32378 , freeing device_id 3 , bemps_tid 4
+setting device 0 with name Tesla V100-SXM2-32GB
+34: LOG_before
+308179845700524 bemps_begin: pid 414 , num_blocks 1048576 , threads_per_block 256 , bemps_begin
+TIME STAMP (BEMPS_BEGIN). time: 1680934904885870485 ns, tid: 3
+3: LOG_after
+3: LOG_before_pre1
+in PRE BEMPS FREE - beacon.mem_B: 5709496320
+in PRE BEMPS FREE - device_id : 2
+308180075464621 pre_bemps_free: pid 32369 , freeing device_id 2 , bemps_tid 3
+TIME STAMP (BEMPS_BEGIN). time: 1680934906388949073 ns, tid: 6
+6: LOG_after
+6: LOG_before_pre1
+in PRE BEMPS FREE - beacon.mem_B: 5709496320
+in PRE BEMPS FREE - device_id : 0
+308191669595602 pre_bemps_free: pid 32407 , freeing device_id 0 , bemps_tid 6
+308191740093686 bemps_beacon: pid 32589 , bemps_tid 15 , mem_B 5709496320 , warps 8388608 , device_id 0 , thread_blocks 1048576
+TIME STAMP (BEMPS_BEGIN). time: 1680934908194761948 ns, tid: 9
+9: LOG_after
+9: LOG_before_pre1
+in PRE BEMPS FREE - beacon.mem_B: 5709496320
+in PRE BEMPS FREE - device_id : 1
+308191961247698 pre_bemps_free: pid 32435 , freeing device_id 1 , bemps_tid 9
+TIME STAMP (BEMPS_BEGIN). time: 1680934909899539190 ns, tid: 12
+12: LOG_after
+12: LOG_before_pre1
+in PRE BEMPS FREE - beacon.mem_B: 5709496320
+in PRE BEMPS FREE - device_id : 3
+308192170861812 pre_bemps_free: pid 32539 , freeing device_id 3 , bemps_tid 12
+TIME STAMP (BEMPS_BEGIN). time: 1680934908094360191 ns, tid: 7
+7: LOG_after
+7: LOG_before_pre1
+in PRE BEMPS FREE - beacon.mem_B: 7856979968
+in PRE BEMPS FREE - device_id : 2
+308192413631544 pre_bemps_free: pid 32409 , freeing device_id 2 , bemps_tid 7
+in PRE BEMPS FREE - changed_beacon.mem_B: 3562012672
+0: LOG_after_pre1
+0: LOG_before_pre2
+in PRE BEMPS FREE - beacon.mem_B: 3562012672
+in PRE BEMPS FREE - device_id : 0
+308204059234511 pre_bemps_free: pid 32323 , freeing device_id 0 , bemps_tid 0
+in PRE BEMPS FREE - changed_beacon.mem_B: 5709496320
+1: LOG_after_pre1
+1: LOG_before_pre2
+in PRE BEMPS FREE - beacon.mem_B: 5709496320
+in PRE BEMPS FREE - device_id : 1
+308204315437556 pre_bemps_free: pid 32330 , freeing device_id 1 , bemps_tid 1
+308204350497055 bemps_beacon: pid 32622 , bemps_tid 18 , mem_B 5709496320 , warps 8388608 , device_id 1 , thread_blocks 1048576
+in PRE BEMPS FREE - changed_beacon.mem_B: 5709496320
+4: LOG_after_pre1
+4: LOG_before_pre2
+in PRE BEMPS FREE - beacon.mem_B: 5709496320
+in PRE BEMPS FREE - device_id : 3
+308204515862059 pre_bemps_free: pid 32378 , freeing device_id 3 , bemps_tid 4
+308204554211303 bemps_beacon: pid 32648 , bemps_tid 21 , mem_B 5709496320 , warps 8388608 , device_id 3 , thread_blocks 1048576
+in PRE BEMPS FREE - changed_beacon.mem_B: 3562012672
+3: LOG_after_pre1
+3: LOG_before_pre2
+in PRE BEMPS FREE - beacon.mem_B: 3562012672
+in PRE BEMPS FREE - device_id : 2
+308204768441912 pre_bemps_free: pid 32369 , freeing device_id 2 , bemps_tid 3
+308204859345517 bemps_beacon: pid 32689 , bemps_tid 24 , mem_B 5709496320 , warps 8388608 , device_id 2 , thread_blocks 1048576
+in PRE BEMPS FREE - changed_beacon.mem_B: 1414529024
+0: LOG_after_pre2
+0: LOG_before_end
+308205097303182 bemps_free: pid 32323 , freeing device_id 0 , bemps_tid 0
+in PRE BEMPS FREE - changed_beacon.mem_B: 1414529024
+3: LOG_after_pre2
+3: LOG_before_end
+308205786447905 bemps_free: pid 32369 , freeing device_id 2 , bemps_tid 3
+TIME STAMP (BEMPS_FREE). time: 1680934946067414097 ns, tid: 0
+0: LOG_after_end
+Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 268419072
+0: LOG_before_return
+308211802570669 _bemps_dump_stats: Dumping bemps stats
+308211802598783 _bemps_dump_stats: count of beacon times: 1
+308211802608806 _bemps_dump_stats: min beacon time (ns): 88362917
+308211802612196 _bemps_dump_stats: max beacon time (ns): 88362917
+308211802615496 _bemps_dump_stats: avg beacon time (ns): 8.83629e+07
+308211802659070 _bemps_dump_stats: count of free times: 3
+308211802662340 _bemps_dump_stats: min free time (ns): 39164
+308211802665667 _bemps_dump_stats: max free time (ns): 71318
+308211802668894 _bemps_dump_stats: avg free time (ns): 57332
+TIME STAMP (BEMPS_FREE). time: 1680934946756554641 ns, tid: 3
+3: LOG_after_end
+Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 268419072
+3: LOG_before_return
+308212185252735 _bemps_dump_stats: Dumping bemps stats
+308212185291359 _bemps_dump_stats: count of beacon times: 1
+308212185313295 _bemps_dump_stats: min beacon time (ns): 45300512
+308212185316632 _bemps_dump_stats: max beacon time (ns): 45300512
+308212185320006 _bemps_dump_stats: avg beacon time (ns): 4.53005e+07
+308212185350885 _bemps_dump_stats: count of free times: 3
+308212185354199 _bemps_dump_stats: min free time (ns): 37493
+308212185357514 _bemps_dump_stats: max free time (ns): 58445
+308212185360721 _bemps_dump_stats: avg free time (ns): 45917
+in PRE BEMPS FREE - changed_beacon.mem_B: 3562012672
+6: LOG_after_pre1
+6: LOG_before_pre2
+in PRE BEMPS FREE - beacon.mem_B: 3562012672
+in PRE BEMPS FREE - device_id : 0
+308216526877297 pre_bemps_free: pid 32407 , freeing device_id 0 , bemps_tid 6
+308216578868804 bemps_beacon: pid 32716 , bemps_tid 27 , mem_B 5709496320 , warps 8388608 , device_id 0 , thread_blocks 1048576
+in PRE BEMPS FREE - changed_beacon.mem_B: 3562012672
+9: LOG_after_pre1
+9: LOG_before_pre2
+in PRE BEMPS FREE - beacon.mem_B: 3562012672
+in PRE BEMPS FREE - device_id : 1
+308216687115446 pre_bemps_free: pid 32435 , freeing device_id 1 , bemps_tid 9
+in PRE BEMPS FREE - changed_beacon.mem_B: 3562012672
+12: LOG_after_pre1
+12: LOG_before_pre2
+in PRE BEMPS FREE - beacon.mem_B: 3562012672
+in PRE BEMPS FREE - device_id : 3
+308216894304211 pre_bemps_free: pid 32539 , freeing device_id 3 , bemps_tid 12
+in PRE BEMPS FREE - changed_beacon.mem_B: 5709496320
+7: LOG_after_pre1
+7: LOG_before_pre2
+in PRE BEMPS FREE - beacon.mem_B: 5709496320
+in PRE BEMPS FREE - device_id : 2
+308217149145465 pre_bemps_free: pid 32409 , freeing device_id 2 , bemps_tid 7
+in PRE BEMPS FREE - changed_beacon.mem_B: 1414529024
+6: LOG_after_pre2
+6: LOG_before_end
+308217582902844 bemps_free: pid 32407 , freeing device_id 0 , bemps_tid 6
+in PRE BEMPS FREE - changed_beacon.mem_B: 1414529024
+9: LOG_after_pre2
+9: LOG_before_end
+308217781841725 bemps_free: pid 32435 , freeing device_id 1 , bemps_tid 9
+in PRE BEMPS FREE - changed_beacon.mem_B: 1414529024
+12: LOG_after_pre2
+12: LOG_before_end
+308217949845947 bemps_free: pid 32539 , freeing device_id 3 , bemps_tid 12
+TIME STAMP (BEMPS_FREE). time: 1680934958553005405 ns, tid: 6
+6: LOG_after_end
+Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 268419072
+6: LOG_before_return
+308223824268881 _bemps_dump_stats: Dumping bemps stats
+308223824315075 _bemps_dump_stats: count of beacon times: 1
+308223824510791 _bemps_dump_stats: min beacon time (ns): 46502782
+308223824515306 _bemps_dump_stats: max beacon time (ns): 46502782
+308223824518780 _bemps_dump_stats: avg beacon time (ns): 4.65028e+07
+308223824545473 _bemps_dump_stats: count of free times: 3
+308223824548762 _bemps_dump_stats: min free time (ns): 36231
+308223824552067 _bemps_dump_stats: max free time (ns): 89035
+308223824555362 _bemps_dump_stats: avg free time (ns): 58901.3
+TIME STAMP (BEMPS_FREE). time: 1680934958751950597 ns, tid: 9
+9: LOG_after_end
+Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 268419072
+9: LOG_before_return
+308224076460050 _bemps_dump_stats: Dumping bemps stats
+308224076496363 _bemps_dump_stats: count of beacon times: 1
+308224076517134 _bemps_dump_stats: min beacon time (ns): 31728819
+308224076520426 _bemps_dump_stats: max beacon time (ns): 31728819
+308224076523742 _bemps_dump_stats: avg beacon time (ns): 3.17288e+07
+308224076557404 _bemps_dump_stats: count of free times: 3
+308224076560678 _bemps_dump_stats: min free time (ns): 38111
+308224076564100 _bemps_dump_stats: max free time (ns): 64901
+308224076567293 _bemps_dump_stats: avg free time (ns): 54039.7
+TIME STAMP (BEMPS_FREE). time: 1680934958919948484 ns, tid: 12
+12: LOG_after_end
+Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 268419072
+12: LOG_before_return
+308224768763742 _bemps_dump_stats: Dumping bemps stats
+308224768834353 _bemps_dump_stats: count of beacon times: 1
+308224768886065 _bemps_dump_stats: min beacon time (ns): 213803457
+308224768890077 _bemps_dump_stats: max beacon time (ns): 213803457
+308224768894087 _bemps_dump_stats: avg beacon time (ns): 2.13803e+08
+308224768927837 _bemps_dump_stats: count of free times: 3
+308224768931798 _bemps_dump_stats: min free time (ns): 44752
+308224768935745 _bemps_dump_stats: max free time (ns): 51397
+308224768939571 _bemps_dump_stats: avg free time (ns): 47946
+TIME STAMP (BEMPS_BEGIN). time: 1680934932710233650 ns, tid: 15
+15: LOG_after
+15: LOG_before_pre1
+in PRE BEMPS FREE - beacon.mem_B: 5709496320
+in PRE BEMPS FREE - device_id : 0
+308228812037329 pre_bemps_free: pid 32589 , freeing device_id 0 , bemps_tid 15
+in PRE BEMPS FREE - changed_beacon.mem_B: 3562012672
+1: LOG_after_pre2
+1: LOG_before_pre3
+in PRE BEMPS FREE - beacon.mem_B: 3562012672
+in PRE BEMPS FREE - device_id : 1
+308229043354726 pre_bemps_free: pid 32330 , freeing device_id 1 , bemps_tid 1
+308229080247015 bemps_beacon: pid 32745 , bemps_tid 30 , mem_B 5709496320 , warps 8388608 , device_id 1 , thread_blocks 1048576
+in PRE BEMPS FREE - changed_beacon.mem_B: 3562012672
+4: LOG_after_pre2
+4: LOG_before_pre3
+in PRE BEMPS FREE - beacon.mem_B: 3562012672
+in PRE BEMPS FREE - device_id : 3
+308229262322678 pre_bemps_free: pid 32378 , freeing device_id 3 , bemps_tid 4
+308229282025504 bemps_beacon: pid 393 , bemps_tid 33 , mem_B 5709496320 , warps 8388608 , device_id 3 , thread_blocks 1048576
+TIME STAMP (BEMPS_BEGIN). time: 1680934945829496124 ns, tid: 24
+24: LOG_after
+24: LOG_before_pre1
+in PRE BEMPS FREE - beacon.mem_B: 5709496320
+in PRE BEMPS FREE - device_id : 2
+308229493797952 pre_bemps_free: pid 32689 , freeing device_id 2 , bemps_tid 24
+in PRE BEMPS FREE - changed_beacon.mem_B: 1414529024
+1: LOG_after_pre3
+1: LOG_before_end
+308230074927195 bemps_free: pid 32330 , freeing device_id 1 , bemps_tid 1
+in PRE BEMPS FREE - changed_beacon.mem_B: 1414529024
+4: LOG_after_pre3
+4: LOG_before_end
+308230345994797 bemps_free: pid 32378 , freeing device_id 3 , bemps_tid 4
+TIME STAMP (BEMPS_FREE). time: 1680934971045032274 ns, tid: 1
+1: LOG_after_end
+Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 268419072
+1: LOG_before_return
+308236303388089 _bemps_dump_stats: Dumping bemps stats
+308236303419463 _bemps_dump_stats: count of beacon times: 1
+308236303430623 _bemps_dump_stats: min beacon time (ns): 53255919
+308236303433976 _bemps_dump_stats: max beacon time (ns): 53255919
+308236303437254 _bemps_dump_stats: avg beacon time (ns): 5.32559e+07
+308236303469332 _bemps_dump_stats: count of free times: 4
+308236303472676 _bemps_dump_stats: min free time (ns): 40478
+308236303476005 _bemps_dump_stats: max free time (ns): 90194
+308236303479317 _bemps_dump_stats: avg free time (ns): 62928.2
+TIME STAMP (BEMPS_FREE). time: 1680934971316095477 ns, tid: 4
+4: LOG_after_end
+Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 268419072
+4: LOG_before_return
+308236925919470 _bemps_dump_stats: Dumping bemps stats
+308236925954789 _bemps_dump_stats: count of beacon times: 1
+308236925973574 _bemps_dump_stats: min beacon time (ns): 3872421
+308236925977014 _bemps_dump_stats: max beacon time (ns): 3872421
+308236925980289 _bemps_dump_stats: avg beacon time (ns): 3.87242e+06
+308236926008834 _bemps_dump_stats: count of free times: 4
+308236926012174 _bemps_dump_stats: min free time (ns): 38289
+308236926015472 _bemps_dump_stats: max free time (ns): 50633
+308236926018753 _bemps_dump_stats: avg free time (ns): 45467
+TIME STAMP (BEMPS_BEGIN). time: 1680934957548987843 ns, tid: 27
+27: LOG_after
+27: LOG_before_pre1
+in PRE BEMPS FREE - beacon.mem_B: 5709496320
+in PRE BEMPS FREE - device_id : 0
+308241165256670 pre_bemps_free: pid 32716 , freeing device_id 0 , bemps_tid 27
+TIME STAMP (BEMPS_BEGIN). time: 1680934945320614960 ns, tid: 18
+18: LOG_after
+18: LOG_before_pre1
+in PRE BEMPS FREE - beacon.mem_B: 5709496320
+in PRE BEMPS FREE - device_id : 1
+308241476129624 pre_bemps_free: pid 32622 , freeing device_id 1 , bemps_tid 18
+TIME STAMP (BEMPS_BEGIN). time: 1680934945524349911 ns, tid: 21
+21: LOG_after
+21: LOG_before_pre1
+in PRE BEMPS FREE - beacon.mem_B: 5709496320
+in PRE BEMPS FREE - device_id : 3
+308241644736088 pre_bemps_free: pid 32648 , freeing device_id 3 , bemps_tid 21
+in PRE BEMPS FREE - changed_beacon.mem_B: 3562012672
+7: LOG_after_pre2
+7: LOG_before_pre3
+in PRE BEMPS FREE - beacon.mem_B: 3562012672
+in PRE BEMPS FREE - device_id : 2
+308241830742430 pre_bemps_free: pid 32409 , freeing device_id 2 , bemps_tid 7
+308241871368512 bemps_beacon: pid 32447 , bemps_tid 10 , mem_B 7856979968 , warps 8388608 , device_id 2 , thread_blocks 1048576
+in PRE BEMPS FREE - changed_beacon.mem_B: 1414529024
+7: LOG_after_pre3
+7: LOG_before_end
+308242874409639 bemps_free: pid 32409 , freeing device_id 2 , bemps_tid 7
+TIME STAMP (BEMPS_FREE). time: 1680934983844508112 ns, tid: 7
+7: LOG_after_end
+Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 268419072
+7: LOG_before_return
+308249118008058 _bemps_dump_stats: Dumping bemps stats
+308249118035275 _bemps_dump_stats: count of beacon times: 1
+308249118045773 _bemps_dump_stats: min beacon time (ns): 1112285873
+308249118049111 _bemps_dump_stats: max beacon time (ns): 1112285873
+308249118052529 _bemps_dump_stats: avg beacon time (ns): 1.11229e+09
+308249118087056 _bemps_dump_stats: count of free times: 4
+308249118090416 _bemps_dump_stats: min free time (ns): 37420
+308249118093723 _bemps_dump_stats: max free time (ns): 53191
+308249118097051 _bemps_dump_stats: avg free time (ns): 45947.8
+in PRE BEMPS FREE - changed_beacon.mem_B: 3562012672
+15: LOG_after_pre1
+15: LOG_before_pre2
+in PRE BEMPS FREE - beacon.mem_B: 3562012672
+in PRE BEMPS FREE - device_id : 0
+308253514918762 pre_bemps_free: pid 32589 , freeing device_id 0 , bemps_tid 15
+308253550795753 bemps_beacon: pid 32570 , bemps_tid 13 , mem_B 7856979968 , warps 8388608 , device_id 0 , thread_blocks 1048576
+TIME STAMP (BEMPS_BEGIN). time: 1680934970050372860 ns, tid: 30
+30: LOG_after
+30: LOG_before_pre1
+in PRE BEMPS FREE - beacon.mem_B: 5709496320
+in PRE BEMPS FREE - device_id : 1
+308253770101704 pre_bemps_free: pid 32745 , freeing device_id 1 , bemps_tid 30
+TIME STAMP (BEMPS_BEGIN). time: 1680934970252155236 ns, tid: 33
+33: LOG_after
+33: LOG_before_pre1
+in PRE BEMPS FREE - beacon.mem_B: 5709496320
+in PRE BEMPS FREE - device_id : 3
+308253993852940 pre_bemps_free: pid 393 , freeing device_id 3 , bemps_tid 33
+in PRE BEMPS FREE - changed_beacon.mem_B: 3562012672
+24: LOG_after_pre1
+24: LOG_before_pre2
+in PRE BEMPS FREE - beacon.mem_B: 3562012672
+in PRE BEMPS FREE - device_id : 2
+308254226416653 pre_bemps_free: pid 32689 , freeing device_id 2 , bemps_tid 24
+in PRE BEMPS FREE - changed_beacon.mem_B: 1414529024
+15: LOG_after_pre2
+15: LOG_before_end
+308254558716230 bemps_free: pid 32589 , freeing device_id 0 , bemps_tid 15
+in PRE BEMPS FREE - changed_beacon.mem_B: 1414529024
+24: LOG_after_pre2
+24: LOG_before_end
+308255212457197 bemps_free: pid 32689 , freeing device_id 2 , bemps_tid 24
+TIME STAMP (BEMPS_FREE). time: 1680934995528822074 ns, tid: 15
+15: LOG_after_end
+Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 268419072
+15: LOG_before_return
+308260256945873 _bemps_dump_stats: Dumping bemps stats
+308260256989596 _bemps_dump_stats: count of beacon times: 1
+308260257009002 _bemps_dump_stats: min beacon time (ns): 21614211287
+308260257012343 _bemps_dump_stats: max beacon time (ns): 21614211287
+308260257015853 _bemps_dump_stats: avg beacon time (ns): 2.16142e+10
+308260257049148 _bemps_dump_stats: count of free times: 3
+308260257052432 _bemps_dump_stats: min free time (ns): 39313
+308260257055725 _bemps_dump_stats: max free time (ns): 62600
+308260257059023 _bemps_dump_stats: avg free time (ns): 50585.7
+TIME STAMP (BEMPS_FREE). time: 1680934996182554267 ns, tid: 24
+24: LOG_after_end
+Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 268419072
+24: LOG_before_return
+308260839024800 _bemps_dump_stats: Dumping bemps stats
+308260839050946 _bemps_dump_stats: count of beacon times: 1
+308260839060415 _bemps_dump_stats: min beacon time (ns): 30095631133
+308260839063739 _bemps_dump_stats: max beacon time (ns): 30095631133
+308260839067014 _bemps_dump_stats: avg beacon time (ns): 3.00956e+10
+308260839100992 _bemps_dump_stats: count of free times: 3
+308260839104260 _bemps_dump_stats: min free time (ns): 30270
+308260839107660 _bemps_dump_stats: max free time (ns): 55022
+308260839110944 _bemps_dump_stats: avg free time (ns): 42665.3
+in PRE BEMPS FREE - changed_beacon.mem_B: 3562012672
+27: LOG_after_pre1
+27: LOG_before_pre2
+in PRE BEMPS FREE - beacon.mem_B: 3562012672
+in PRE BEMPS FREE - device_id : 0
+308265931504556 pre_bemps_free: pid 32716 , freeing device_id 0 , bemps_tid 27
+in PRE BEMPS FREE - changed_beacon.mem_B: 3562012672
+18: LOG_after_pre1
+18: LOG_before_pre2
+in PRE BEMPS FREE - beacon.mem_B: 3562012672
+in PRE BEMPS FREE - device_id : 1
+308266111219133 pre_bemps_free: pid 32622 , freeing device_id 1 , bemps_tid 18
+308266132550807 bemps_beacon: pid 32605 , bemps_tid 16 , mem_B 7856979968 , warps 8388608 , device_id 1 , thread_blocks 1048576
+in PRE BEMPS FREE - changed_beacon.mem_B: 3562012672
+21: LOG_after_pre1
+21: LOG_before_pre2
+in PRE BEMPS FREE - beacon.mem_B: 3562012672
+in PRE BEMPS FREE - device_id : 3
+308266344484766 pre_bemps_free: pid 32648 , freeing device_id 3 , bemps_tid 21
+308266434524190 bemps_beacon: pid 32628 , bemps_tid 19 , mem_B 7856979968 , warps 8388608 , device_id 3 , thread_blocks 1048576
+TIME STAMP (BEMPS_BEGIN). time: 1680934982841487842 ns, tid: 10
+10: LOG_after
+10: LOG_before_pre1
+in PRE BEMPS FREE - beacon.mem_B: 7856979968
+in PRE BEMPS FREE - device_id : 2
+308266575496653 pre_bemps_free: pid 32447 , freeing device_id 2 , bemps_tid 10
+308266635713955 bemps_beacon: pid 32667 , bemps_tid 22 , mem_B 7856979968 , warps 8388608 , device_id 2 , thread_blocks 1048576
+in PRE BEMPS FREE - changed_beacon.mem_B: 1414529024
+27: LOG_after_pre2
+27: LOG_before_end
+308266945744950 bemps_free: pid 32716 , freeing device_id 0 , bemps_tid 27
+in PRE BEMPS FREE - changed_beacon.mem_B: 1414529024
+18: LOG_after_pre2
+18: LOG_before_end
+308267141038126 bemps_free: pid 32622 , freeing device_id 1 , bemps_tid 18
+in PRE BEMPS FREE - changed_beacon.mem_B: 1414529024
+21: LOG_after_pre2
+21: LOG_before_end
+308267381215316 bemps_free: pid 32648 , freeing device_id 3 , bemps_tid 21
+TIME STAMP (BEMPS_FREE). time: 1680935007915850130 ns, tid: 27
+27: LOG_after_end
+Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 268419072
+27: LOG_before_return
+308273203861236 _bemps_dump_stats: Dumping bemps stats
+308273203899331 _bemps_dump_stats: count of beacon times: 1
+308273203921465 _bemps_dump_stats: min beacon time (ns): 40051511735
+308273203924797 _bemps_dump_stats: max beacon time (ns): 40051511735
+308273203928151 _bemps_dump_stats: avg beacon time (ns): 4.00515e+10
+308273203964014 _bemps_dump_stats: count of free times: 3
+308273203967362 _bemps_dump_stats: min free time (ns): 36851
+308273203970724 _bemps_dump_stats: max free time (ns): 58048
+308273203973985 _bemps_dump_stats: avg free time (ns): 45027.7
+TIME STAMP (BEMPS_FREE). time: 1680935008111141423 ns, tid: 18
+18: LOG_after_end
+Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 268419072
+18: LOG_before_return
+308273383794799 _bemps_dump_stats: Dumping bemps stats
+308273383834774 _bemps_dump_stats: count of beacon times: 1
+308273383856563 _bemps_dump_stats: min beacon time (ns): 32740273822
+308273383859910 _bemps_dump_stats: max beacon time (ns): 32740273822
+308273383863249 _bemps_dump_stats: avg beacon time (ns): 3.27403e+10
+308273383892394 _bemps_dump_stats: count of free times: 3
+308273383895633 _bemps_dump_stats: min free time (ns): 39753
+308273383898902 _bemps_dump_stats: max free time (ns): 80758
+308273383902198 _bemps_dump_stats: avg free time (ns): 66511
+TIME STAMP (BEMPS_FREE). time: 1680935008351320214 ns, tid: 21
+21: LOG_after_end
+Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 268419072
+21: LOG_before_return
+308274005247727 _bemps_dump_stats: Dumping bemps stats
+308274005289125 _bemps_dump_stats: count of beacon times: 1
+308274005308705 _bemps_dump_stats: min beacon time (ns): 30828674879
+308274005311579 _bemps_dump_stats: max beacon time (ns): 30828674879
+308274005314645 _bemps_dump_stats: avg beacon time (ns): 3.08287e+10
+308274005343049 _bemps_dump_stats: count of free times: 3
+308274005345925 _bemps_dump_stats: min free time (ns): 44046
+308274005348746 _bemps_dump_stats: max free time (ns): 56397
+308274005351593 _bemps_dump_stats: avg free time (ns): 51082
+TIME STAMP (BEMPS_BEGIN). time: 1680934994520919099 ns, tid: 13
+13: LOG_after
+13: LOG_before_pre1
+in PRE BEMPS FREE - beacon.mem_B: 7856979968
+in PRE BEMPS FREE - device_id : 0
+308278325744788 pre_bemps_free: pid 32570 , freeing device_id 0 , bemps_tid 13
+308278328148764 bemps_beacon: pid 32691 , bemps_tid 25 , mem_B 7856979968 , warps 8388608 , device_id 0 , thread_blocks 1048576
+in PRE BEMPS FREE - changed_beacon.mem_B: 3562012672
+30: LOG_after_pre1
+30: LOG_before_pre2
+in PRE BEMPS FREE - beacon.mem_B: 3562012672
+in PRE BEMPS FREE - device_id : 1
+308278524232719 pre_bemps_free: pid 32745 , freeing device_id 1 , bemps_tid 30
+in PRE BEMPS FREE - changed_beacon.mem_B: 3562012672
+33: LOG_after_pre1
+33: LOG_before_pre2
+in PRE BEMPS FREE - beacon.mem_B: 3562012672
+in PRE BEMPS FREE - device_id : 3
+308278758226358 pre_bemps_free: pid 393 , freeing device_id 3 , bemps_tid 33
+in PRE BEMPS FREE - changed_beacon.mem_B: 5709496320
+10: LOG_after_pre1
+10: LOG_before_pre2
+in PRE BEMPS FREE - beacon.mem_B: 5709496320
+in PRE BEMPS FREE - device_id : 2
+308278963203262 pre_bemps_free: pid 32447 , freeing device_id 2 , bemps_tid 10
+in PRE BEMPS FREE - changed_beacon.mem_B: 1414529024
+30: LOG_after_pre2
+30: LOG_before_end
+308279639936627 bemps_free: pid 32745 , freeing device_id 1 , bemps_tid 30
+in PRE BEMPS FREE - changed_beacon.mem_B: 1414529024
+33: LOG_after_pre2
+33: LOG_before_end
+308279758945895 bemps_free: pid 393 , freeing device_id 3 , bemps_tid 33
+TIME STAMP (BEMPS_FREE). time: 1680935020729056289 ns, tid: 33
+33: LOG_after_end
+Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 268419072
+33: LOG_before_return
+308285362289973 _bemps_dump_stats: Dumping bemps stats
+308285362317312 _bemps_dump_stats: count of beacon times: 1
+308285362326042 _bemps_dump_stats: min beacon time (ns): 49921663942
+308285362328887 _bemps_dump_stats: max beacon time (ns): 49921663942
+308285362331751 _bemps_dump_stats: avg beacon time (ns): 4.99217e+10
+308285362365465 _bemps_dump_stats: count of free times: 3
+308285362368242 _bemps_dump_stats: min free time (ns): 36884
+308285362371044 _bemps_dump_stats: max free time (ns): 57145
+308285362373844 _bemps_dump_stats: avg free time (ns): 49857
+TIME STAMP (BEMPS_FREE). time: 1680935020610047610 ns, tid: 30
+30: LOG_after_end
+Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 268419072
+30: LOG_before_return
+308286302833979 _bemps_dump_stats: Dumping bemps stats
+308286302861610 _bemps_dump_stats: count of beacon times: 1
+308286302871066 _bemps_dump_stats: min beacon time (ns): 51551044557
+308286302874444 _bemps_dump_stats: max beacon time (ns): 51551044557
+308286302877874 _bemps_dump_stats: avg beacon time (ns): 5.1551e+10
+308286302901614 _bemps_dump_stats: count of free times: 3
+308286302904851 _bemps_dump_stats: min free time (ns): 40621
+308286302908225 _bemps_dump_stats: max free time (ns): 74511
+308286302911584 _bemps_dump_stats: avg free time (ns): 52440.7
+in PRE BEMPS FREE - changed_beacon.mem_B: 5709496320
+13: LOG_after_pre1
+13: LOG_before_pre2
+in PRE BEMPS FREE - beacon.mem_B: 5709496320
+in PRE BEMPS FREE - device_id : 0
+308290713873098 pre_bemps_free: pid 32570 , freeing device_id 0 , bemps_tid 13
+TIME STAMP (BEMPS_BEGIN). time: 1680935007102682295 ns, tid: 16
+16: LOG_after
+16: LOG_before_pre1
+in PRE BEMPS FREE - beacon.mem_B: 7856979968
+in PRE BEMPS FREE - device_id : 1
+308290868898969 pre_bemps_free: pid 32605 , freeing device_id 1 , bemps_tid 16
+308290945322182 bemps_beacon: pid 32725 , bemps_tid 28 , mem_B 7856979968 , warps 8388608 , device_id 1 , thread_blocks 1048576
+TIME STAMP (BEMPS_BEGIN). time: 1680935007404662447 ns, tid: 19
+19: LOG_after
+19: LOG_before_pre1
+in PRE BEMPS FREE - beacon.mem_B: 7856979968
+in PRE BEMPS FREE - device_id : 3
+308291110819137 pre_bemps_free: pid 32628 , freeing device_id 3 , bemps_tid 19
+308291147591215 bemps_beacon: pid 32755 , bemps_tid 31 , mem_B 7856979968 , warps 8388608 , device_id 3 , thread_blocks 1048576
+TIME STAMP (BEMPS_BEGIN). time: 1680935007605876877 ns, tid: 22
+22: LOG_after
+22: LOG_before_pre1
+in PRE BEMPS FREE - beacon.mem_B: 7856979968
+in PRE BEMPS FREE - device_id : 2
+308291306927509 pre_bemps_free: pid 32667 , freeing device_id 2 , bemps_tid 22
+TIME STAMP (BEMPS_BEGIN). time: 1680935019298280563 ns, tid: 25
+25: LOG_after
+25: LOG_before_pre1
+in PRE BEMPS FREE - beacon.mem_B: 7856979968
+in PRE BEMPS FREE - device_id : 0
+308303076311174 pre_bemps_free: pid 32691 , freeing device_id 0 , bemps_tid 25
+in PRE BEMPS FREE - changed_beacon.mem_B: 5709496320
+16: LOG_after_pre1
+16: LOG_before_pre2
+in PRE BEMPS FREE - beacon.mem_B: 5709496320
+in PRE BEMPS FREE - device_id : 1
+308303282371664 pre_bemps_free: pid 32605 , freeing device_id 1 , bemps_tid 16
+in PRE BEMPS FREE - changed_beacon.mem_B: 5709496320
+19: LOG_after_pre1
+19: LOG_before_pre2
+in PRE BEMPS FREE - beacon.mem_B: 5709496320
+in PRE BEMPS FREE - device_id : 3
+308303501883395 pre_bemps_free: pid 32628 , freeing device_id 3 , bemps_tid 19
+in PRE BEMPS FREE - changed_beacon.mem_B: 3562012672
+10: LOG_after_pre2
+10: LOG_before_pre3
+in PRE BEMPS FREE - beacon.mem_B: 3562012672
+in PRE BEMPS FREE - device_id : 2
+308303653911133 pre_bemps_free: pid 32447 , freeing device_id 2 , bemps_tid 10
+in PRE BEMPS FREE - changed_beacon.mem_B: 1414529024
+10: LOG_after_pre3
+10: LOG_before_end
+308304684228030 bemps_free: pid 32447 , freeing device_id 2 , bemps_tid 10
+308304765861512 bemps_beacon: pid 414 , bemps_tid 34 , mem_B 7856979968 , warps 8388608 , device_id 2 , thread_blocks 1048576
+TIME STAMP (BEMPS_FREE). time: 1680935045654342348 ns, tid: 10
+10: LOG_after_end
+Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 268419072
+10: LOG_before_return
+308310895220015 _bemps_dump_stats: Dumping bemps stats
+308310895259199 _bemps_dump_stats: count of beacon times: 1
+308310895279916 _bemps_dump_stats: min beacon time (ns): 74054547943
+308310895283349 _bemps_dump_stats: max beacon time (ns): 74054547943
+308310895286757 _bemps_dump_stats: avg beacon time (ns): 7.40545e+10
+308310895318153 _bemps_dump_stats: count of free times: 4
+308310895321610 _bemps_dump_stats: min free time (ns): 36744
+308310895325026 _bemps_dump_stats: max free time (ns): 112961
+308310895328380 _bemps_dump_stats: avg free time (ns): 68994.2
+in PRE BEMPS FREE - changed_beacon.mem_B: 3562012672
+13: LOG_after_pre2
+13: LOG_before_pre3
+in PRE BEMPS FREE - beacon.mem_B: 3562012672
+in PRE BEMPS FREE - device_id : 0
+308315436196134 pre_bemps_free: pid 32570 , freeing device_id 0 , bemps_tid 13
+TIME STAMP (BEMPS_BEGIN). time: 1680935031915455809 ns, tid: 28
+28: LOG_after
+28: LOG_before_pre1
+in PRE BEMPS FREE - beacon.mem_B: 7856979968
+in PRE BEMPS FREE - device_id : 1
+308315599014073 pre_bemps_free: pid 32725 , freeing device_id 1 , bemps_tid 28
+TIME STAMP (BEMPS_BEGIN). time: 1680935032117737150 ns, tid: 31
+31: LOG_after
+31: LOG_before_pre1
+in PRE BEMPS FREE - beacon.mem_B: 7856979968
+in PRE BEMPS FREE - device_id : 3
+308315851905631 pre_bemps_free: pid 32755 , freeing device_id 3 , bemps_tid 31
+in PRE BEMPS FREE - changed_beacon.mem_B: 5709496320
+22: LOG_after_pre1
+22: LOG_before_pre2
+in PRE BEMPS FREE - beacon.mem_B: 5709496320
+in PRE BEMPS FREE - device_id : 2
+308316049752543 pre_bemps_free: pid 32667 , freeing device_id 2 , bemps_tid 22
+in PRE BEMPS FREE - changed_beacon.mem_B: 1414529024
+13: LOG_after_pre3
+13: LOG_before_end
+308316422221790 bemps_free: pid 32570 , freeing device_id 0 , bemps_tid 13
+TIME STAMP (BEMPS_FREE). time: 1680935057392323501 ns, tid: 13
+13: LOG_after_end
+Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 268419072
+13: LOG_before_return
+308322157207340 _bemps_dump_stats: Dumping bemps stats
+308322157250215 _bemps_dump_stats: count of beacon times: 1
+308322157271256 _bemps_dump_stats: min beacon time (ns): 84278079672
+308322157274662 _bemps_dump_stats: max beacon time (ns): 84278079672
+308322157278041 _bemps_dump_stats: avg beacon time (ns): 8.42781e+10
+308322157308587 _bemps_dump_stats: count of free times: 4
+308322157311930 _bemps_dump_stats: min free time (ns): 40093
+308322157315347 _bemps_dump_stats: max free time (ns): 59453
+308322157318822 _bemps_dump_stats: avg free time (ns): 51806
+in PRE BEMPS FREE - changed_beacon.mem_B: 5709496320
+25: LOG_after_pre1
+25: LOG_before_pre2
+in PRE BEMPS FREE - beacon.mem_B: 5709496320
+in PRE BEMPS FREE - device_id : 0
+308327799777616 pre_bemps_free: pid 32691 , freeing device_id 0 , bemps_tid 25
+308327882190424 bemps_beacon: pid 32588 , bemps_tid 14 , mem_B 9725542400 , warps 1536 , device_id 0 , thread_blocks 192
+in PRE BEMPS FREE - changed_beacon.mem_B: 3562012672
+16: LOG_after_pre2
+16: LOG_before_pre3
+in PRE BEMPS FREE - beacon.mem_B: 3562012672
+in PRE BEMPS FREE - device_id : 1
+308327943145562 pre_bemps_free: pid 32605 , freeing device_id 1 , bemps_tid 16
+in PRE BEMPS FREE - changed_beacon.mem_B: 3562012672
+19: LOG_after_pre2
+19: LOG_before_pre3
+in PRE BEMPS FREE - beacon.mem_B: 3562012672
+in PRE BEMPS FREE - device_id : 3
+308328233235205 pre_bemps_free: pid 32628 , freeing device_id 3 , bemps_tid 19
+TIME STAMP (BEMPS_BEGIN). time: 1680935045736020062 ns, tid: 34
+34: LOG_after
+34: LOG_before_pre1
+in PRE BEMPS FREE - beacon.mem_B: 7856979968
+in PRE BEMPS FREE - device_id : 2
+308328391106533 pre_bemps_free: pid 414 , freeing device_id 2 , bemps_tid 34
+in PRE BEMPS FREE - changed_beacon.mem_B: 1414529024
+16: LOG_after_pre3
+16: LOG_before_end
+308328952546585 bemps_free: pid 32605 , freeing device_id 1 , bemps_tid 16
+in PRE BEMPS FREE - changed_beacon.mem_B: 1414529024
+19: LOG_after_pre3
+19: LOG_before_end
+308329274419372 bemps_free: pid 32628 , freeing device_id 3 , bemps_tid 19
+TIME STAMP (BEMPS_FREE). time: 1680935069922648336 ns, tid: 16
+16: LOG_after_end
+Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 268419072
+16: LOG_before_return
+308334963117901 _bemps_dump_stats: Dumping bemps stats
+308334963159519 _bemps_dump_stats: count of beacon times: 1
+308334963180723 _bemps_dump_stats: min beacon time (ns): 95249222498
+308334963184120 _bemps_dump_stats: max beacon time (ns): 95249222498
+308334963187481 _bemps_dump_stats: avg beacon time (ns): 9.52492e+10
+308334963217839 _bemps_dump_stats: count of free times: 4
+308334963221206 _bemps_dump_stats: min free time (ns): 43882
+308334963224554 _bemps_dump_stats: max free time (ns): 52314
+308334963227884 _bemps_dump_stats: avg free time (ns): 48143
+TIME STAMP (BEMPS_FREE). time: 1680935070244531332 ns, tid: 19
+19: LOG_after_end
+Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 268419072
+19: LOG_before_return
+308335143508555 _bemps_dump_stats: Dumping bemps stats
+308335143535570 _bemps_dump_stats: count of beacon times: 1
+308335143545669 _bemps_dump_stats: min beacon time (ns): 93904987770
+308335143549030 _bemps_dump_stats: max beacon time (ns): 93904987770
+308335143552364 _bemps_dump_stats: avg beacon time (ns): 9.3905e+10
+308335143579064 _bemps_dump_stats: count of free times: 4
+308335143582395 _bemps_dump_stats: min free time (ns): 34278
+308335143585708 _bemps_dump_stats: max free time (ns): 59570
+308335143589037 _bemps_dump_stats: avg free time (ns): 45499.2
+in PRE BEMPS FREE - changed_beacon.mem_B: 3562012672
+25: LOG_after_pre2
+25: LOG_before_pre3
+in PRE BEMPS FREE - beacon.mem_B: 3562012672
+in PRE BEMPS FREE - device_id : 0
+308340141216828 pre_bemps_free: pid 32691 , freeing device_id 0 , bemps_tid 25
+TIME STAMP (BEMPS_BEGIN). time: 1680935068852298201 ns, tid: 14
+14: LOG_after
+rgb
+154
+pre_bemps_free alignedSize!!
+in PRE BEMPS FREE - beacon.mem_B: 9725542400
+in PRE BEMPS FREE - device_id : 0
+308340268200198 pre_bemps_free: pid 32588 , freeing device_id 0 , bemps_tid 14
+in PRE BEMPS FREE - changed_beacon.mem_B: 8920236032
+
+*** 3 stages of 2D forward DWT:
+pixWidth, pixHeight: 16384, 16384
+
+ sliding steps = 137 , gx = 86 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 69 , gx = 43 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 35 , gx = 22 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+14: LOG_before_pre1
+in PRE BEMPS FREE - beacon.mem_B: 8920236032
+in PRE BEMPS FREE - device_id : 0
+308340279004494 pre_bemps_free: pid 32588 , freeing device_id 0 , bemps_tid 14
+in PRE BEMPS FREE - changed_beacon.mem_B: 5709496320
+28: LOG_after_pre1
+28: LOG_before_pre2
+in PRE BEMPS FREE - beacon.mem_B: 5709496320
+in PRE BEMPS FREE - device_id : 1
+308340288854073 pre_bemps_free: pid 32725 , freeing device_id 1 , bemps_tid 28
+in PRE BEMPS FREE - changed_beacon.mem_B: 7846494208
+14: LOG_after_pre1
+
+*** 3 stages of 2D forward DWT:
+pixWidth, pixHeight: 16384, 16384
+
+ sliding steps = 137 , gx = 86 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 69 , gx = 43 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 35 , gx = 22 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+14: LOG_before_pre2
+in PRE BEMPS FREE - beacon.mem_B: 7846494208
+in PRE BEMPS FREE - device_id : 0
+308340290614400 pre_bemps_free: pid 32588 , freeing device_id 0 , bemps_tid 14
+in PRE BEMPS FREE - changed_beacon.mem_B: 6772752384
+14: LOG_after_pre2
+
+*** 3 stages of 2D forward DWT:
+pixWidth, pixHeight: 16384, 16384
+
+ sliding steps = 137 , gx = 86 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 69 , gx = 43 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 35 , gx = 22 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+14: LOG_before_pre3
+in PRE BEMPS FREE - beacon.mem_B: 6772752384
+in PRE BEMPS FREE - device_id : 0
+308340301653501 pre_bemps_free: pid 32588 , freeing device_id 0 , bemps_tid 14
+308340367440860 bemps_beacon: pid 32616 , bemps_tid 17 , mem_B 9725542400 , warps 1536 , device_id 1 , thread_blocks 192
+in PRE BEMPS FREE - changed_beacon.mem_B: 5709496320
+31: LOG_after_pre1
+31: LOG_before_pre2
+in PRE BEMPS FREE - beacon.mem_B: 5709496320
+in PRE BEMPS FREE - device_id : 3
+308340547921040 pre_bemps_free: pid 32755 , freeing device_id 3 , bemps_tid 31
+308340651070354 bemps_beacon: pid 32647 , bemps_tid 20 , mem_B 9725542400 , warps 1536 , device_id 3 , thread_blocks 192
+in PRE BEMPS FREE - changed_beacon.mem_B: 3562012672
+22: LOG_after_pre2
+22: LOG_before_pre3
+in PRE BEMPS FREE - beacon.mem_B: 3562012672
+in PRE BEMPS FREE - device_id : 2
+308340729796756 pre_bemps_free: pid 32667 , freeing device_id 2 , bemps_tid 22
+in PRE BEMPS FREE - changed_beacon.mem_B: 1414529024
+25: LOG_after_pre3
+25: LOG_before_end
+308341179346810 bemps_free: pid 32691 , freeing device_id 0 , bemps_tid 25
+in PRE BEMPS FREE - changed_beacon.mem_B: 1414529024
+22: LOG_after_pre3
+22: LOG_before_end
+308341766509602 bemps_free: pid 32667 , freeing device_id 2 , bemps_tid 22
+in PRE BEMPS FREE - changed_beacon.mem_B: 5699010560
+14: LOG_after_pre3
+
+Writing to 14.r (16384 x 16384)
+
+Writing to 14.g (16384 x 16384)
+
+Writing to 14.b (16384 x 16384)
+308345374005976 bemps_free: pid 32588 , freeing device_id 0 , bemps_tid 14
+TIME STAMP (BEMPS_FREE). time: 1680935086344125175 ns, tid: 14
+14: LOG_before_end
+14: LOG_after_end
+308345374211203 _bemps_dump_stats: Dumping bemps stats
+308345374216208 _bemps_dump_stats: count of beacon times: 1
+308345374223484 _bemps_dump_stats: min beacon time (ns): 164792234639
+308345374227347 _bemps_dump_stats: max beacon time (ns): 164792234639
+308345374231084 _bemps_dump_stats: avg beacon time (ns): 1.64792e+11
+308345374252798 _bemps_dump_stats: count of free times: 5
+308345374256553 _bemps_dump_stats: min free time (ns): 14884
+308345374260316 _bemps_dump_stats: max free time (ns): 107526
+308345374264110 _bemps_dump_stats: avg free time (ns): 49739
+308345559720958 bemps_beacon: pid 32679 , bemps_tid 23 , mem_B 9725542400 , warps 1536 , device_id 0 , thread_blocks 192
+TIME STAMP (BEMPS_BEGIN). time: 1680935086529830234 ns, tid: 23
+23: LOG_after
+rgb
+154
+pre_bemps_free alignedSize!!
+in PRE BEMPS FREE - beacon.mem_B: 9725542400
+in PRE BEMPS FREE - device_id : 0
+308346257921505 pre_bemps_free: pid 32679 , freeing device_id 0 , bemps_tid 23
+in PRE BEMPS FREE - changed_beacon.mem_B: 8920236032
+
+*** 3 stages of 2D forward DWT:
+pixWidth, pixHeight: 16384, 16384
+
+ sliding steps = 137 , gx = 86 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 69 , gx = 43 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 35 , gx = 22 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+23: LOG_before_pre1
+in PRE BEMPS FREE - beacon.mem_B: 8920236032
+in PRE BEMPS FREE - device_id : 0
+308346268705160 pre_bemps_free: pid 32679 , freeing device_id 0 , bemps_tid 23
+in PRE BEMPS FREE - changed_beacon.mem_B: 7846494208
+23: LOG_after_pre1
+
+*** 3 stages of 2D forward DWT:
+pixWidth, pixHeight: 16384, 16384
+
+ sliding steps = 137 , gx = 86 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 69 , gx = 43 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 35 , gx = 22 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+23: LOG_before_pre2
+in PRE BEMPS FREE - beacon.mem_B: 7846494208
+in PRE BEMPS FREE - device_id : 0
+308346279562044 pre_bemps_free: pid 32679 , freeing device_id 0 , bemps_tid 23
+in PRE BEMPS FREE - changed_beacon.mem_B: 6772752384
+23: LOG_after_pre2
+
+*** 3 stages of 2D forward DWT:
+pixWidth, pixHeight: 16384, 16384
+
+ sliding steps = 137 , gx = 86 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 69 , gx = 43 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 35 , gx = 22 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+23: LOG_before_pre3
+in PRE BEMPS FREE - beacon.mem_B: 6772752384
+in PRE BEMPS FREE - device_id : 0
+308346290941525 pre_bemps_free: pid 32679 , freeing device_id 0 , bemps_tid 23
+TIME STAMP (BEMPS_FREE). time: 1680935082149451649 ns, tid: 25
+25: LOG_after_end
+Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 268419072
+25: LOG_before_return
+308347630750602 _bemps_dump_stats: Dumping bemps stats
+308347630797215 _bemps_dump_stats: count of beacon times: 1
+308347630819926 _bemps_dump_stats: min beacon time (ns): 103029509985
+308347630824396 _bemps_dump_stats: max beacon time (ns): 103029509985
+308347630828605 _bemps_dump_stats: avg beacon time (ns): 1.0303e+11
+308347630863499 _bemps_dump_stats: count of free times: 4
+308347630867359 _bemps_dump_stats: min free time (ns): 36601
+308347630871248 _bemps_dump_stats: max free time (ns): 85728
+308347630875027 _bemps_dump_stats: avg free time (ns): 58687.5
+TIME STAMP (BEMPS_FREE). time: 1680935082736612283 ns, tid: 22
+22: LOG_after_end
+Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 268419072
+22: LOG_before_return
+308347751276696 _bemps_dump_stats: Dumping bemps stats
+308347751302256 _bemps_dump_stats: count of beacon times: 1
+308347751311725 _bemps_dump_stats: min beacon time (ns): 91933092697
+308347751315157 _bemps_dump_stats: max beacon time (ns): 91933092697
+308347751318528 _bemps_dump_stats: avg beacon time (ns): 9.19331e+10
+308347751352231 _bemps_dump_stats: count of free times: 4
+308347751355637 _bemps_dump_stats: min free time (ns): 36727
+308347751359085 _bemps_dump_stats: max free time (ns): 53790
+308347751362527 _bemps_dump_stats: avg free time (ns): 42973.8
+in PRE BEMPS FREE - changed_beacon.mem_B: 5699010560
+23: LOG_after_pre3
+
+Writing to 23.r (16384 x 16384)
+
+Writing to 23.g (16384 x 16384)
+
+Writing to 23.b (16384 x 16384)
+308351658858603 bemps_free: pid 32679 , freeing device_id 0 , bemps_tid 23
+TIME STAMP (BEMPS_FREE). time: 1680935092628975390 ns, tid: 23
+23: LOG_before_end
+23: LOG_after_end
+308351659064627 _bemps_dump_stats: Dumping bemps stats
+308351659068989 _bemps_dump_stats: count of beacon times: 1
+308351659075751 _bemps_dump_stats: min beacon time (ns): 177947117487
+308351659078901 _bemps_dump_stats: max beacon time (ns): 177947117487
+308351659082008 _bemps_dump_stats: avg beacon time (ns): 1.77947e+11
+308351659107731 _bemps_dump_stats: count of free times: 5
+308351659110984 _bemps_dump_stats: min free time (ns): 10799
+308351659114148 _bemps_dump_stats: max free time (ns): 77545
+308351659117288 _bemps_dump_stats: avg free time (ns): 35906.4
+308351822828387 bemps_beacon: pid 32713 , bemps_tid 26 , mem_B 9725542400 , warps 1536 , device_id 0 , thread_blocks 192
+TIME STAMP (BEMPS_BEGIN). time: 1680935092792938079 ns, tid: 26
+26: LOG_after
+rgb
+154
+pre_bemps_free alignedSize!!
+in PRE BEMPS FREE - beacon.mem_B: 9725542400
+in PRE BEMPS FREE - device_id : 0
+308352569695713 pre_bemps_free: pid 32713 , freeing device_id 0 , bemps_tid 26
+in PRE BEMPS FREE - changed_beacon.mem_B: 8920236032
+
+*** 3 stages of 2D forward DWT:
+pixWidth, pixHeight: 16384, 16384
+
+ sliding steps = 137 , gx = 86 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 69 , gx = 43 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 35 , gx = 22 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+26: LOG_before_pre1
+in PRE BEMPS FREE - beacon.mem_B: 8920236032
+in PRE BEMPS FREE - device_id : 0
+308352579984999 pre_bemps_free: pid 32713 , freeing device_id 0 , bemps_tid 26
+in PRE BEMPS FREE - changed_beacon.mem_B: 7846494208
+26: LOG_after_pre1
+
+*** 3 stages of 2D forward DWT:
+pixWidth, pixHeight: 16384, 16384
+
+ sliding steps = 137 , gx = 86 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 69 , gx = 43 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 35 , gx = 22 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+26: LOG_before_pre2
+in PRE BEMPS FREE - beacon.mem_B: 7846494208
+in PRE BEMPS FREE - device_id : 0
+308352590471509 pre_bemps_free: pid 32713 , freeing device_id 0 , bemps_tid 26
+in PRE BEMPS FREE - changed_beacon.mem_B: 6772752384
+26: LOG_after_pre2
+
+*** 3 stages of 2D forward DWT:
+pixWidth, pixHeight: 16384, 16384
+
+ sliding steps = 137 , gx = 86 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 69 , gx = 43 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 35 , gx = 22 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+26: LOG_before_pre3
+in PRE BEMPS FREE - beacon.mem_B: 6772752384
+in PRE BEMPS FREE - device_id : 0
+308352601722341 pre_bemps_free: pid 32713 , freeing device_id 0 , bemps_tid 26
+in PRE BEMPS FREE - changed_beacon.mem_B: 3562012672
+28: LOG_after_pre2
+28: LOG_before_pre3
+in PRE BEMPS FREE - beacon.mem_B: 3562012672
+in PRE BEMPS FREE - device_id : 1
+308352626254668 pre_bemps_free: pid 32725 , freeing device_id 1 , bemps_tid 28
+TIME STAMP (BEMPS_BEGIN). time: 1680935081337546910 ns, tid: 17
+17: LOG_after
+rgb
+154
+pre_bemps_free alignedSize!!
+in PRE BEMPS FREE - beacon.mem_B: 9725542400
+in PRE BEMPS FREE - device_id : 1
+308352753482672 pre_bemps_free: pid 32616 , freeing device_id 1 , bemps_tid 17
+in PRE BEMPS FREE - changed_beacon.mem_B: 8920236032
+
+*** 3 stages of 2D forward DWT:
+pixWidth, pixHeight: 16384, 16384
+
+ sliding steps = 137 , gx = 86 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 69 , gx = 43 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 35 , gx = 22 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+17: LOG_before_pre1
+in PRE BEMPS FREE - beacon.mem_B: 8920236032
+in PRE BEMPS FREE - device_id : 1
+308352764362282 pre_bemps_free: pid 32616 , freeing device_id 1 , bemps_tid 17
+in PRE BEMPS FREE - changed_beacon.mem_B: 7846494208
+17: LOG_after_pre1
+
+*** 3 stages of 2D forward DWT:
+pixWidth, pixHeight: 16384, 16384
+
+ sliding steps = 137 , gx = 86 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 69 , gx = 43 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 35 , gx = 22 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+17: LOG_before_pre2
+in PRE BEMPS FREE - beacon.mem_B: 7846494208
+in PRE BEMPS FREE - device_id : 1
+308352774585430 pre_bemps_free: pid 32616 , freeing device_id 1 , bemps_tid 17
+in PRE BEMPS FREE - changed_beacon.mem_B: 6772752384
+17: LOG_after_pre2
+
+*** 3 stages of 2D forward DWT:
+pixWidth, pixHeight: 16384, 16384
+
+ sliding steps = 137 , gx = 86 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 69 , gx = 43 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 35 , gx = 22 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+17: LOG_before_pre3
+in PRE BEMPS FREE - beacon.mem_B: 6772752384
+in PRE BEMPS FREE - device_id : 1
+308352785770167 pre_bemps_free: pid 32616 , freeing device_id 1 , bemps_tid 17
+in PRE BEMPS FREE - changed_beacon.mem_B: 3562012672
+31: LOG_after_pre2
+31: LOG_before_pre3
+in PRE BEMPS FREE - beacon.mem_B: 3562012672
+in PRE BEMPS FREE - device_id : 3
+308352896180841 pre_bemps_free: pid 32755 , freeing device_id 3 , bemps_tid 31
+TIME STAMP (BEMPS_BEGIN). time: 1680935081621183157 ns, tid: 20
+20: LOG_after
+rgb
+154
+pre_bemps_free alignedSize!!
+in PRE BEMPS FREE - beacon.mem_B: 9725542400
+in PRE BEMPS FREE - device_id : 3
+308353022551280 pre_bemps_free: pid 32647 , freeing device_id 3 , bemps_tid 20
+in PRE BEMPS FREE - changed_beacon.mem_B: 8920236032
+
+*** 3 stages of 2D forward DWT:
+pixWidth, pixHeight: 16384, 16384
+
+ sliding steps = 137 , gx = 86 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 69 , gx = 43 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 35 , gx = 22 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+20: LOG_before_pre1
+in PRE BEMPS FREE - beacon.mem_B: 8920236032
+in PRE BEMPS FREE - device_id : 3
+308353032964475 pre_bemps_free: pid 32647 , freeing device_id 3 , bemps_tid 20
+in PRE BEMPS FREE - changed_beacon.mem_B: 7846494208
+20: LOG_after_pre1
+
+*** 3 stages of 2D forward DWT:
+pixWidth, pixHeight: 16384, 16384
+
+ sliding steps = 137 , gx = 86 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 69 , gx = 43 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 35 , gx = 22 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+20: LOG_before_pre2
+in PRE BEMPS FREE - beacon.mem_B: 7846494208
+in PRE BEMPS FREE - device_id : 3
+308353043138670 pre_bemps_free: pid 32647 , freeing device_id 3 , bemps_tid 20
+in PRE BEMPS FREE - changed_beacon.mem_B: 6772752384
+20: LOG_after_pre2
+
+*** 3 stages of 2D forward DWT:
+pixWidth, pixHeight: 16384, 16384
+
+ sliding steps = 137 , gx = 86 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 69 , gx = 43 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 35 , gx = 22 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+20: LOG_before_pre3
+in PRE BEMPS FREE - beacon.mem_B: 6772752384
+in PRE BEMPS FREE - device_id : 3
+308353054471655 pre_bemps_free: pid 32647 , freeing device_id 3 , bemps_tid 20
+in PRE BEMPS FREE - changed_beacon.mem_B: 5709496320
+34: LOG_after_pre1
+34: LOG_before_pre2
+in PRE BEMPS FREE - beacon.mem_B: 5709496320
+in PRE BEMPS FREE - device_id : 2
+308353070736760 pre_bemps_free: pid 414 , freeing device_id 2 , bemps_tid 34
+308353241445056 bemps_beacon: pid 32732 , bemps_tid 29 , mem_B 9725542400 , warps 1536 , device_id 2 , thread_blocks 192
+in PRE BEMPS FREE - changed_beacon.mem_B: 1414529024
+28: LOG_after_pre3
+28: LOG_before_end
+308353721875978 bemps_free: pid 32725 , freeing device_id 1 , bemps_tid 28
+in PRE BEMPS FREE - changed_beacon.mem_B: 1414529024
+31: LOG_after_pre3
+31: LOG_before_end
+308353910678843 bemps_free: pid 32755 , freeing device_id 3 , bemps_tid 31
+in PRE BEMPS FREE - changed_beacon.mem_B: 5699010560
+26: LOG_after_pre3
+
+Writing to 26.r (16384 x 16384)
+
+Writing to 26.g (16384 x 16384)
+
+Writing to 26.b (16384 x 16384)
+308357849427225 bemps_free: pid 32713 , freeing device_id 0 , bemps_tid 26
+TIME STAMP (BEMPS_FREE). time: 1680935098819559277 ns, tid: 26
+26: LOG_before_end
+26: LOG_after_end
+308357849646156 _bemps_dump_stats: Dumping bemps stats
+308357849650279 _bemps_dump_stats: count of beacon times: 1
+308357849657270 _bemps_dump_stats: min beacon time (ns): 182702846176
+308357849660016 _bemps_dump_stats: max beacon time (ns): 182702846176
+308357849662899 _bemps_dump_stats: avg beacon time (ns): 1.82703e+11
+308357849686493 _bemps_dump_stats: count of free times: 5
+308357849689401 _bemps_dump_stats: min free time (ns): 8913
+308357849692475 _bemps_dump_stats: max free time (ns): 138758
+308357849695346 _bemps_dump_stats: avg free time (ns): 43966
+308358161866888 bemps_beacon: pid 390 , bemps_tid 32 , mem_B 9725542400 , warps 1536 , device_id 0 , thread_blocks 192
+in PRE BEMPS FREE - changed_beacon.mem_B: 5699010560
+17: LOG_after_pre3
+
+Writing to 17.r (16384 x 16384)
+
+Writing to 17.g (16384 x 16384)
+
+Writing to 17.b (16384 x 16384)
+308358169614373 bemps_free: pid 32616 , freeing device_id 1 , bemps_tid 17
+TIME STAMP (BEMPS_FREE). time: 1680935099139725144 ns, tid: 17
+17: LOG_before_end
+17: LOG_after_end
+308358169748128 _bemps_dump_stats: Dumping bemps stats
+308358169751549 _bemps_dump_stats: count of beacon times: 1
+308358169757528 _bemps_dump_stats: min beacon time (ns): 175764206930
+308358169760324 _bemps_dump_stats: max beacon time (ns): 175764206930
+308358169763062 _bemps_dump_stats: avg beacon time (ns): 1.75764e+11
+308358169790105 _bemps_dump_stats: count of free times: 5
+308358169792969 _bemps_dump_stats: min free time (ns): 10022
+308358169795856 _bemps_dump_stats: max free time (ns): 63359
+308358169798715 _bemps_dump_stats: avg free time (ns): 30888
+in PRE BEMPS FREE - changed_beacon.mem_B: 5699010560
+20: LOG_after_pre3
+
+Writing to 20.r (16384 x 16384)
+
+Writing to 20.g (16384 x 16384)
+
+Writing to 20.b (16384 x 16384)
+308358260901577 bemps_free: pid 32647 , freeing device_id 3 , bemps_tid 20
+TIME STAMP (BEMPS_FREE). time: 1680935099231005497 ns, tid: 20
+20: LOG_before_end
+20: LOG_after_end
+308358261089632 _bemps_dump_stats: Dumping bemps stats
+308358261093689 _bemps_dump_stats: count of beacon times: 1
+308358261100673 _bemps_dump_stats: min beacon time (ns): 174545343571
+308358261115073 _bemps_dump_stats: max beacon time (ns): 174545343571
+308358261118356 _bemps_dump_stats: avg beacon time (ns): 1.74545e+11
+308358261144058 _bemps_dump_stats: count of free times: 5
+308358261147280 _bemps_dump_stats: min free time (ns): 9858
+308358261150438 _bemps_dump_stats: max free time (ns): 80421
+308358261153605 _bemps_dump_stats: avg free time (ns): 40822.6
+308358428794063 bemps_beacon: pid 418 , bemps_tid 35 , mem_B 9725542400 , warps 1536 , device_id 1 , thread_blocks 192
+TIME STAMP (BEMPS_BEGIN). time: 1680935099131974305 ns, tid: 32
+32: LOG_after
+rgb
+154
+pre_bemps_free alignedSize!!
+in PRE BEMPS FREE - beacon.mem_B: 9725542400
+in PRE BEMPS FREE - device_id : 0
+308359227807308 pre_bemps_free: pid 390 , freeing device_id 0 , bemps_tid 32
+TIME STAMP (BEMPS_BEGIN). time: 1680935099398903168 ns, tid: 35
+35: LOG_after
+rgb
+154
+pre_bemps_free alignedSize!!
+in PRE BEMPS FREE - beacon.mem_B: 9725542400
+in PRE BEMPS FREE - device_id : 1
+308359229100158 pre_bemps_free: pid 418 , freeing device_id 1 , bemps_tid 35
+in PRE BEMPS FREE - changed_beacon.mem_B: 8920236032
+
+*** 3 stages of 2D forward DWT:
+pixWidth, pixHeight: 16384, 16384
+
+ sliding steps = 137 , gx = 86 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 69 , gx = 43 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 35 , gx = 22 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+32: LOG_before_pre1
+in PRE BEMPS FREE - beacon.mem_B: 8920236032
+in PRE BEMPS FREE - device_id : 0
+308359239681588 pre_bemps_free: pid 390 , freeing device_id 0 , bemps_tid 32
+in PRE BEMPS FREE - changed_beacon.mem_B: 8920236032
+
+*** 3 stages of 2D forward DWT:
+pixWidth, pixHeight: 16384, 16384
+
+ sliding steps = 137 , gx = 86 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 69 , gx = 43 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 35 , gx = 22 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+35: LOG_before_pre1
+in PRE BEMPS FREE - beacon.mem_B: 8920236032
+in PRE BEMPS FREE - device_id : 1
+308359241385428 pre_bemps_free: pid 418 , freeing device_id 1 , bemps_tid 35
+in PRE BEMPS FREE - changed_beacon.mem_B: 7846494208
+32: LOG_after_pre1
+
+*** 3 stages of 2D forward DWT:
+pixWidth, pixHeight: 16384, 16384
+
+ sliding steps = 137 , gx = 86 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 69 , gx = 43 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 35 , gx = 22 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+32: LOG_before_pre2
+in PRE BEMPS FREE - beacon.mem_B: 7846494208
+in PRE BEMPS FREE - device_id : 0
+308359320961448 pre_bemps_free: pid 390 , freeing device_id 0 , bemps_tid 32
+in PRE BEMPS FREE - changed_beacon.mem_B: 7846494208
+35: LOG_after_pre1
+
+*** 3 stages of 2D forward DWT:
+pixWidth, pixHeight: 16384, 16384
+
+ sliding steps = 137 , gx = 86 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 69 , gx = 43 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 35 , gx = 22 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+35: LOG_before_pre2
+in PRE BEMPS FREE - beacon.mem_B: 7846494208
+in PRE BEMPS FREE - device_id : 1
+308359328701746 pre_bemps_free: pid 418 , freeing device_id 1 , bemps_tid 35
+in PRE BEMPS FREE - changed_beacon.mem_B: 6772752384
+32: LOG_after_pre2
+
+*** 3 stages of 2D forward DWT:
+pixWidth, pixHeight: 16384, 16384
+
+ sliding steps = 137 , gx = 86 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 69 , gx = 43 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 35 , gx = 22 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+32: LOG_before_pre3
+in PRE BEMPS FREE - beacon.mem_B: 6772752384
+in PRE BEMPS FREE - device_id : 0
+308359398125327 pre_bemps_free: pid 390 , freeing device_id 0 , bemps_tid 32
+in PRE BEMPS FREE - changed_beacon.mem_B: 6772752384
+35: LOG_after_pre2
+
+*** 3 stages of 2D forward DWT:
+pixWidth, pixHeight: 16384, 16384
+
+ sliding steps = 137 , gx = 86 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 69 , gx = 43 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 35 , gx = 22 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+35: LOG_before_pre3
+in PRE BEMPS FREE - beacon.mem_B: 6772752384
+in PRE BEMPS FREE - device_id : 1
+308359403637957 pre_bemps_free: pid 418 , freeing device_id 1 , bemps_tid 35
+TIME STAMP (BEMPS_FREE). time: 1680935094691991016 ns, tid: 28
+28: LOG_after_end
+Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 268419072
+28: LOG_before_return
+308359544976377 _bemps_dump_stats: Dumping bemps stats
+308359545019002 _bemps_dump_stats: count of beacon times: 1
+308359545038888 _bemps_dump_stats: min beacon time (ns): 113803839670
+308359545041891 _bemps_dump_stats: max beacon time (ns): 113803839670
+308359545044819 _bemps_dump_stats: avg beacon time (ns): 1.13804e+11
+308359545076565 _bemps_dump_stats: count of free times: 4
+308359545079531 _bemps_dump_stats: min free time (ns): 32198
+308359545082550 _bemps_dump_stats: max free time (ns): 125284
+308359545085459 _bemps_dump_stats: avg free time (ns): 66280.8
+TIME STAMP (BEMPS_FREE). time: 1680935094880790092 ns, tid: 31
+31: LOG_after_end
+Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 268419072
+31: LOG_before_return
+308360198832849 _bemps_dump_stats: Dumping bemps stats
+308360198879735 _bemps_dump_stats: count of beacon times: 1
+308360198903353 _bemps_dump_stats: min beacon time (ns): 112820117680
+308360198906891 _bemps_dump_stats: max beacon time (ns): 112820117680
+308360198910310 _bemps_dump_stats: avg beacon time (ns): 1.1282e+11
+308360198943093 _bemps_dump_stats: count of free times: 4
+308360198946589 _bemps_dump_stats: min free time (ns): 42523
+308360198949993 _bemps_dump_stats: max free time (ns): 101579
+308360198953408 _bemps_dump_stats: avg free time (ns): 63495
+in PRE BEMPS FREE - changed_beacon.mem_B: 5699010560
+32: LOG_after_pre3
+
+Writing to 32.r (16384 x 16384)
+
+Writing to 32.g (16384 x 16384)
+
+Writing to 32.b (16384 x 16384)
+308364559526245 bemps_free: pid 390 , freeing device_id 0 , bemps_tid 32
+TIME STAMP (BEMPS_FREE). time: 1680935105529639192 ns, tid: 32
+32: LOG_before_end
+32: LOG_after_end
+308364559672612 _bemps_dump_stats: Dumping bemps stats
+308364559676530 _bemps_dump_stats: count of beacon times: 1
+308364559683390 _bemps_dump_stats: min beacon time (ns): 186028460560
+308364559686732 _bemps_dump_stats: max beacon time (ns): 186028460560
+308364559689960 _bemps_dump_stats: avg beacon time (ns): 1.86028e+11
+308364559715590 _bemps_dump_stats: count of free times: 5
+308364559718864 _bemps_dump_stats: min free time (ns): 13485
+308364559722094 _bemps_dump_stats: max free time (ns): 69477
+308364559725319 _bemps_dump_stats: avg free time (ns): 37393.2
+in PRE BEMPS FREE - changed_beacon.mem_B: 5699010560
+35: LOG_after_pre3
+
+Writing to 35.r (16384 x 16384)
+
+Writing to 35.g (16384 x 16384)
+
+Writing to 35.b (16384 x 16384)
+308364809112497 bemps_free: pid 418 , freeing device_id 1 , bemps_tid 35
+TIME STAMP (BEMPS_FREE). time: 1680935105779236383 ns, tid: 35
+35: LOG_before_end
+35: LOG_after_end
+308364809314113 _bemps_dump_stats: Dumping bemps stats
+308364809317559 _bemps_dump_stats: count of beacon times: 1
+308364809323944 _bemps_dump_stats: min beacon time (ns): 184788457489
+308364809326524 _bemps_dump_stats: max beacon time (ns): 184788457489
+308364809329239 _bemps_dump_stats: avg beacon time (ns): 1.84788e+11
+308364809346417 _bemps_dump_stats: count of free times: 5
+308364809349079 _bemps_dump_stats: min free time (ns): 12998
+308364809351704 _bemps_dump_stats: max free time (ns): 110945
+308364809354328 _bemps_dump_stats: avg free time (ns): 46358
+in PRE BEMPS FREE - changed_beacon.mem_B: 3562012672
+34: LOG_after_pre2
+34: LOG_before_pre3
+in PRE BEMPS FREE - beacon.mem_B: 3562012672
+in PRE BEMPS FREE - device_id : 2
+308365398290244 pre_bemps_free: pid 414 , freeing device_id 2 , bemps_tid 34
+TIME STAMP (BEMPS_BEGIN). time: 1680935094211556058 ns, tid: 29
+29: LOG_after
+rgb
+154
+pre_bemps_free alignedSize!!
+in PRE BEMPS FREE - beacon.mem_B: 9725542400
+in PRE BEMPS FREE - device_id : 2
+308365525308260 pre_bemps_free: pid 32732 , freeing device_id 2 , bemps_tid 29
+in PRE BEMPS FREE - changed_beacon.mem_B: 8920236032
+
+*** 3 stages of 2D forward DWT:
+pixWidth, pixHeight: 16384, 16384
+
+ sliding steps = 137 , gx = 86 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 69 , gx = 43 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 35 , gx = 22 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+29: LOG_before_pre1
+in PRE BEMPS FREE - beacon.mem_B: 8920236032
+in PRE BEMPS FREE - device_id : 2
+308365535622891 pre_bemps_free: pid 32732 , freeing device_id 2 , bemps_tid 29
+in PRE BEMPS FREE - changed_beacon.mem_B: 7846494208
+29: LOG_after_pre1
+
+*** 3 stages of 2D forward DWT:
+pixWidth, pixHeight: 16384, 16384
+
+ sliding steps = 137 , gx = 86 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 69 , gx = 43 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 35 , gx = 22 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+29: LOG_before_pre2
+in PRE BEMPS FREE - beacon.mem_B: 7846494208
+in PRE BEMPS FREE - device_id : 2
+308365545554841 pre_bemps_free: pid 32732 , freeing device_id 2 , bemps_tid 29
+in PRE BEMPS FREE - changed_beacon.mem_B: 6772752384
+29: LOG_after_pre2
+
+*** 3 stages of 2D forward DWT:
+pixWidth, pixHeight: 16384, 16384
+
+ sliding steps = 137 , gx = 86 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 69 , gx = 43 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+
+ sliding steps = 35 , gx = 22 , gy = 15 
+fdwt53Kernel in launchFDWT53Kernel has finished
+29: LOG_before_pre3
+in PRE BEMPS FREE - beacon.mem_B: 6772752384
+in PRE BEMPS FREE - device_id : 2
+308365556227596 pre_bemps_free: pid 32732 , freeing device_id 2 , bemps_tid 29
+in PRE BEMPS FREE - changed_beacon.mem_B: 1414529024
+34: LOG_after_pre3
+34: LOG_before_end
+308366339157083 bemps_free: pid 414 , freeing device_id 2 , bemps_tid 34
+in PRE BEMPS FREE - changed_beacon.mem_B: 5699010560
+29: LOG_after_pre3
+
+Writing to 29.r (16384 x 16384)
+
+Writing to 29.g (16384 x 16384)
+
+Writing to 29.b (16384 x 16384)
+308370465350490 bemps_free: pid 32732 , freeing device_id 2 , bemps_tid 29
+TIME STAMP (BEMPS_FREE). time: 1680935111435454478 ns, tid: 29
+29: LOG_before_end
+29: LOG_after_end
+308370465469575 _bemps_dump_stats: Dumping bemps stats
+308370465472790 _bemps_dump_stats: count of beacon times: 1
+308370465478904 _bemps_dump_stats: min beacon time (ns): 182614582188
+308370465481473 _bemps_dump_stats: max beacon time (ns): 182614582188
+308370465484027 _bemps_dump_stats: avg beacon time (ns): 1.82615e+11
+308370465514337 _bemps_dump_stats: count of free times: 5
+308370465516959 _bemps_dump_stats: min free time (ns): 8782
+308370465519503 _bemps_dump_stats: max free time (ns): 51817
+308370465522042 _bemps_dump_stats: avg free time (ns): 25545.6
+TIME STAMP (BEMPS_FREE). time: 1680935107309261807 ns, tid: 34
+34: LOG_after_end
+Non-Matching CPU-GPU Outputs Beyond Error Threshold of 0.05 Percent: 268419072
+34: LOG_before_return
+308371455318426 _bemps_dump_stats: Dumping bemps stats
+308371455346432 _bemps_dump_stats: count of beacon times: 1
+308371455355227 _bemps_dump_stats: min beacon time (ns): 124920264777
+308371455357971 _bemps_dump_stats: max beacon time (ns): 124920264777
+308371455360756 _bemps_dump_stats: avg beacon time (ns): 1.2492e+11
+308371455396581 _bemps_dump_stats: count of free times: 4
+308371455399385 _bemps_dump_stats: min free time (ns): 33942
+308371455402083 _bemps_dump_stats: max free time (ns): 52250
+308371455404781 _bemps_dump_stats: avg free time (ns): 43847.2
