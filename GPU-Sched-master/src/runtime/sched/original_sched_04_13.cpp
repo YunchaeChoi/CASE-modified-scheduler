@@ -1133,7 +1133,6 @@ void sched_mgb_basic(void) {
       BEMPS_SCHED_LOG("boomers_len: " << boomers_len << "\n");
     }
     for (i = 0; i < boomers_len; i++) {
-    // while(1) {
       assigned = 0;
       comm = boomers.front();
       // boomers.pop_front();
@@ -1212,7 +1211,7 @@ void sched_mgb_basic(void) {
         ++*jobs_running_on_gpu;
         --*jobs_waiting_on_gpu;
 
-        break;
+        continue;
       }
     }
     bemps_stopwatch_end(&sched_stopwatches[SCHED_STOPWATCH_AWAKE]);

@@ -1,0 +1,4 @@
+676423591750714 ns, pid: 324
+676423591854016 bemps_init: bemps_shm.comm:      0x7f183cae0078
+676423591861164 bemps_begin: pid 2344 , num_blocks 1048576 , threads_per_block 256 , bemps_begin
+676423672030572 bemps_beacon: pid 2344 , bemps_tid 324 , mem_B 5709496320 , warps 8388608 , device_id 0 , thread_blocks 1048576
